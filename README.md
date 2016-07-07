@@ -3,10 +3,10 @@
 # How to install Macmoji
 ## It's as easy as 🔢
 
-1. Open System Preferences
-2. Navigate to Keyboard > Text
+1. [Download `emoji substitutions.plist`](https://raw.githubusercontent.com/warpling/Macmoji/master/emoji%20substitutions.plist)
+1. Open System Preferences and navigate to **Keyboard** > **Text**
 3. Drag the `emoji substituions.plist` to the list of substitutions
-4. Type something like `:boom:` or `:blackbox:` and hit space after completeing each one. 💥⬛️
+4. Type something like `:boom:` or `:blackbox:` and hit space after! 💥⬛️
 
 ## FAQ
 
@@ -24,3 +24,6 @@ Type your skin-tonable emoji, then type `:skin-tone-3:` (any number 1-5) to add 
 
 #### 😫 Macmoji isn't working in Chrome 
 Yeah it's bummer. Chrome uses their own text engine and bypasses the system's autocomplete and a few other things, but fun work around is to open Spotlight (cmd + space) type your emojis there, copy, paste, and you're good to go! 👍 
+
+#### 😠 Sometimes it just stops working in some applications
+Beats me. ¯\_(ツ)_/¯ Have a hunch why? I'd love to know too.
