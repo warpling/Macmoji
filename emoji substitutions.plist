@@ -2842,6 +2842,18 @@
   </dict>
   <dict>
     <key>phrase</key>
+    <string>💥</string>
+    <key>shortcut</key>
+    <string>:pow:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>💥</string>
+    <key>shortcut</key>
+    <string>:explode:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>💦</string>
     <key>shortcut</key>
     <string>:sweat_drops:</string>
