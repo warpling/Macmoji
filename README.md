@@ -1,4 +1,4 @@
-![How Macmoji works 😁"](https://github.com/warpling/Macmoji/blob/master/gifs/macmoji.gif?raw=true)
+![How Macmoji works 😁](https://github.com/warpling/Macmoji/blob/master/gifs/what%20is%20it.gif?raw=true)
 
 # How to install Macmoji
 ## It's as easy as 🔢
@@ -8,22 +8,33 @@
 3. Drag the `emoji substituions.plist` to the list of substitutions
 4. Type something like `:boom:` or `:blackbox:` and hit space after! 💥⬛️
 
+#### Gif instructions:
+![How to "install" Macmoji](https://github.com/warpling/Macmoji/blob/master/gifs/how%20to%20install.gif?raw=true)
+
 ## FAQ
 
 #### 🤔 Can I change/remove substitutions?
-Yep! Macmoji substituions are ordinary text substituions. You can even create your own from the preference pane. Double click an entry to change it, highlight and hit delete to remove it. To select multiple substituions select one and then while holding shift select another; hit delete to remove.
+Yep! Macmoji substituions are ordinary text substituions. Double click an entry to change it; highlight and hit delete to remove it. To highlight multiple substituions select one and then while holding shift select another. You can always add your own too of course!
 
-#### 💩 Why the colon?
-Well it's what Slack does *and* it prevents mac os's autocomplete from being too aggressive when you're just trying to type normal sentences like, "ghost bananas are cool." 👻🍌🆒 
+Some fun recommendations:
 
-#### 😱 I have substituions to add / you made a mistake!
+| replace | with |
+| :------- | :------- |
+| ehh | ¯\_(ツ)_/¯ |
+| tflip | (╯°□°）╯︵ ┻━┻ |
+| eml | your@email.com |
+
+#### 💩 Why the colons?
+Well it's [what Slack does](https://get.slack.help/hc/en-us/articles/202931348-Emoji-and-emoticons) *and* it prevents mac os's autocomplete from being too aggressive when you're just trying to type normal sentences like, "ghost bananas are cool." 👻🍌🆒 
+
+#### 😱 I have suggetions and mistakes to point out!
 Let me know in the issues *orrr* file a [pull request](https://yangsu.github.io/pull-request-tutorial/)!
 
 #### 🖐🏽 What about skin tones?
 Type your skin-tonable emoji, then type `:skin-tone-3:` (any number 1-5) to add the skintone. They should combine!
 
 #### 😫 Macmoji isn't working in Chrome 
-Yeah it's bummer. Chrome uses their own text engine and bypasses the system's autocomplete and a few other things, but fun work around is to open Spotlight (cmd + space) type your emojis there, copy, paste, and you're good to go! 👍 
+Yeah it's bummer. Chrome uses their own text engine and bypasses the system's autocomplete and a few other things, but fun work around is to open Spotlight (`cmd + space`) type your emojis there, copy, paste, and you're good to go! 👍 
 
 #### 😠 Sometimes it just stops working in some applications
-Beats me. ¯\_(ツ)_/¯ Have a hunch why? I'd love to know too.
+No clue. Beats me. Have a hunch why? I'd love to know too.
