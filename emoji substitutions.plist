@@ -2146,6 +2146,12 @@
   </dict>
   <dict>
     <key>phrase</key>
+    <string>👋</string>
+    <key>shortcut</key>
+    <string>:bye:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>👌</string>
     <key>shortcut</key>
     <string>:ok_hand:</string>
@@ -5257,6 +5263,12 @@
     <string>🤔</string>
     <key>shortcut</key>
     <string>:thinking_face:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🤔</string>
+    <key>shortcut</key>
+    <string>:thinking:</string>
   </dict>
   <dict>
     <key>phrase</key>
