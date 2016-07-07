@@ -1,3 +1,5 @@
+![How Macmoji works 😁"](https://github.com/warpling/Macmoji/blob/master/gifs/macmoji.gif?raw=true)
+
 # How to install Macmoji
 ## It's as easy as 🔢
 
