@@ -19,11 +19,11 @@ Yep! Macmoji substituions are ordinary text substituions. Double click an entry 
 
 Some fun recommendations:
 
-| replace | with |
-| :------- | :------- |
-| ehh | ¯\_(ツ)_/¯ |
-| tflip | (╯°□°）╯︵ ┻━┻ |
-| eml | your@email.com |
+| replace  | with           |
+| :------- | :------------- |
+| ehh      | ¯\\\_(ツ)\_/¯   |
+| tflip    | (╯°□°）╯︵ ┻━┻ |
+| eml      | your@email.com |
 
 #### 💩 Why the colons?
 Well it's [what Slack does](https://get.slack.help/hc/en-us/articles/202931348-Emoji-and-emoticons) *and* it prevents mac os's autocomplete from being too aggressive when you're just trying to type normal sentences like, "ghost bananas are cool." 👻🍌🆒 
