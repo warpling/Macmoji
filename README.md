@@ -3,7 +3,7 @@
 # How to install Macmoji
 ## It's as easy as 🔢
 
-1. [Download `emoji substitutions.plist`](https://raw.githubusercontent.com/warpling/Macmoji/master/emoji%20substitutions.plist)
+1. [Download `emoji substitutions.plist`](https://raw.githubusercontent.com/warpling/Macmoji/master/emoji%20substitutions.plist) (make sure it has the extension `.plist`)
 1. Open System Preferences and navigate to **Keyboard** > **Text**
 3. Drag the `emoji substitutions.plist` to the list of substitutions to add them
 4. Type something like `:boom:` or `:blackbox:` and hit space after! 💥⬛️
