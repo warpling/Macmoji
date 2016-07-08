@@ -21,7 +21,7 @@ Some fun recommendations:
 
 | replace | with |
 | :------- | :------- |
-| ehh | ¯\_(ツ)_/¯ |
+| ehh | ¯\\\_(ツ)\_/¯ |
 | tflip | (╯°□°）╯︵ ┻━┻ |
 | eml | your@email.com |
 
