@@ -964,6 +964,12 @@
   </dict>
   <dict>
     <key>phrase</key>
+    <string>🎃</string>
+    <key>shortcut</key>
+    <string>:pumpkin:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>🎄</string>
     <key>shortcut</key>
     <string>:christmas_tree:</string>
@@ -5578,12 +5584,6 @@
   </dict>
   <dict>
     <key>phrase</key>
-    <string>◾</string>
-    <key>shortcut</key>
-    <string>:blackbox:</string>
-  </dict>
-  <dict>
-    <key>phrase</key>
     <string>☀</string>
     <key>shortcut</key>
     <string>:sunny:</string>
@@ -6331,6 +6331,36 @@
     <string>㊙</string>
     <key>shortcut</key>
     <string>:secret:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>◾</string>
+    <key>shortcut</key>
+    <string>:blackbox:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🎃</string>
+    <key>shortcut</key>
+    <string>:trump:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🐍</string>
+    <key>shortcut</key>
+    <string>:millenial:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🐍🐍🐍</string>
+    <key>shortcut</key>
+    <string>:millenials:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🍑</string>
+    <key>shortcut</key>
+    <string>:booty:</string>
   </dict>
 </array>
 </plist>
