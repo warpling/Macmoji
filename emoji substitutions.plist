@@ -5920,25 +5920,25 @@
   </dict>
   <dict>
     <key>phrase</key>
-    <string>⚾</string>
+    <string>⚽</string>
     <key>shortcut</key>
     <string>:soccer:</string>
   </dict>
   <dict>
     <key>phrase</key>
-    <string>⛄</string>
+    <string>⚾️</string>
     <key>shortcut</key>
     <string>:baseball:</string>
   </dict>
   <dict>
     <key>phrase</key>
-    <string>⛅</string>
+    <string>⛄</string>
     <key>shortcut</key>
     <string>:snowman:</string>
   </dict>
   <dict>
     <key>phrase</key>
-    <string>⛈</string>
+    <string>⛅</string>
     <key>shortcut</key>
     <string>:partly_sunny:</string>
   </dict>
