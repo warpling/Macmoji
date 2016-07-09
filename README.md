@@ -45,3 +45,13 @@ Yeah it's bummer. Chrome uses their own text engine and bypasses the system's au
 
 #### 😠 Sometimes it just stops working in some applications
 No clue. Beats me. Have a hunch why? I'd love to know too.
+
+## Change Log
+
+The best way to update is to remove all previously added substitutions and then drag in the plist again (hold `shift` to select all the colon clad substitutions).
+**Tip:** You can always back-up substitutions by selecting and dragging them out of the list!
+
+|       Date       |       Commit       |       Changes       |
+| ---------------- | ------------------ | ------------------- |
+| July 8, 2016 | [e7225c2](https://github.com/warpling/Macmoji/commit/e7225c24157385f319f99910ecf5e737016c796b) | 🐴🍷🙎🖖 Add shortcut for mustang, wine, pouting, and spock |
+| July 8, 2016 | [2f84c61](https://github.com/warpling/Macmoji/commit/2f84c6169546a22246f42a4b56eaec7d8ef979d5) | ⚽⚾️⛄⛅ Fix mismatched shortcuts for soccer, baseball, snowman, and partially_sunny |
