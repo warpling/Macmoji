@@ -892,6 +892,12 @@
   </dict>
   <dict>
     <key>phrase</key>
+    <string>🍷</string>
+    <key>shortcut</key>
+    <string>:wine:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>🍸</string>
     <key>shortcut</key>
     <string>:cocktail:</string>
@@ -1999,6 +2005,12 @@
     <string>🐴</string>
     <key>shortcut</key>
     <string>:horse:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🐴</string>
+    <key>shortcut</key>
+    <string>:mustang:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4084,6 +4096,12 @@
   </dict>
   <dict>
     <key>phrase</key>
+    <string>🖖</string>
+    <key>shortcut</key>
+    <string>:spock:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>🖥</string>
     <key>shortcut</key>
     <string>:desktop_computer:</string>
@@ -4717,6 +4735,12 @@
     <string>🙎</string>
     <key>shortcut</key>
     <string>:person_with_pouting_face:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🙎</string>
+    <key>shortcut</key>
+    <string>:pouting:</string>
   </dict>
   <dict>
     <key>phrase</key>
