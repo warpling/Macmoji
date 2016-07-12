@@ -11,6 +11,11 @@
 #### Gif instructions:
 ![How to "install" Macmoji](https://github.com/warpling/Macmoji/blob/master/gifs/how%20to%20install.gif?raw=true)
 
+## Keyboard Maestro Version
+
+If you'd prefer to use Keyboard Maestro to handle the substiutions, import the emojis-km6.kmmacros file in the Keyboard Maestro Editor. Emoji can be added in the editor or by editing the emojis-km6.kmmacros file before importing. The macro can then be exported to back up your changes.
+
+This macro was created and tested using version 6. It has not been tested with other versions.
 
 ## FAQ
 
@@ -26,7 +31,7 @@ Some fun recommendations:
 | eml      | your@email.com |
 
 #### 💩 Why the colons?
-Well it's [what Slack does](https://get.slack.help/hc/en-us/articles/202931348-Emoji-and-emoticons) *and* it prevents mac os's autocomplete from being too aggressive when you're just trying to type normal sentences like, "ghost bananas are cool." 👻🍌🆒 
+Well it's [what Slack does](https://get.slack.help/hc/en-us/articles/202931348-Emoji-and-emoticons) *and* it prevents mac os's autocomplete from being too aggressive when you're just trying to type normal sentences like, "ghost bananas are cool." 👻🍌🆒
 
 #### 🖐🏽 What about skin tones?
 Type your skin-tonable emoji, then type `:skin-tone-3:` (any number 1-5) to add the skintone. They should combine!
@@ -40,8 +45,8 @@ Yep! Highlight and drag out the ones you want to back-up or share and you'll get
 
 ## Known Problems
 
-#### 😫 Macmoji isn't working in Chrome 
-Yeah it's bummer. Chrome uses their own text engine and bypasses the system's autocomplete and a few other things, but fun work around is to open Spotlight (`cmd + space`) type your emojis there, copy, paste, and you're good to go! 👍 
+#### 😫 Macmoji isn't working in Chrome
+Yeah it's bummer. Chrome uses their own text engine and bypasses the system's autocomplete and a few other things, but fun work around is to open Spotlight (`cmd + space`) type your emojis there, copy, paste, and you're good to go! 👍
 
 #### 😠 Sometimes it just stops working in some applications
 No clue. Beats me. Have a hunch why? I'd love to know too.
@@ -53,5 +58,6 @@ The best way to update is to remove all previously added substitutions and then 
 
 |       Date       |       Commit       |       Changes       |
 | ---------------- | ------------------ | ------------------- |
+| July 11, 2016 | [781926c](https://github.com/warpling/Macmoji/commit/781926c97496937346a64c68ace755b32f3059fe) | Added Keyboard Maestro macro version |
 | July 8, 2016 | [e7225c2](https://github.com/warpling/Macmoji/commit/e7225c24157385f319f99910ecf5e737016c796b) | 🐴🍷🙎🖖 Add shortcut for mustang, wine, pouting, and spock |
 | July 8, 2016 | [2f84c61](https://github.com/warpling/Macmoji/commit/2f84c6169546a22246f42a4b56eaec7d8ef979d5) | ⚽⚾️⛄⛅ Fix mismatched shortcuts for soccer, baseball, snowman, and partially_sunny |
