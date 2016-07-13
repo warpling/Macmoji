@@ -100,6 +100,12 @@
   </dict>
   <dict>
     <key>phrase</key>
+    <string>📞</string>
+    <key>shortcut</key>
+    <string>:call:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>🆓</string>
     <key>shortcut</key>
     <string>:free:</string>
@@ -3235,6 +3241,12 @@
     <string>📞</string>
     <key>shortcut</key>
     <string>:telephone_receiver:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>☎️</string>
+    <key>shortcut</key>
+    <string>:telephone:</string>
   </dict>
   <dict>
     <key>phrase</key>
