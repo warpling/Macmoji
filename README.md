@@ -1,7 +1,6 @@
 ![How Macmoji works 😁](https://github.com/warpling/Macmoji/blob/master/gifs/what%20is%20it.gif?raw=true)
 
-# How to install Macmoji
-## It's as easy as 🔢
+# Installing Macmoji: as easy as 🔢
 
 1. [Download `emoji substitutions.plist`](https://raw.githubusercontent.com/warpling/Macmoji/master/emoji%20substitutions.plist) (make sure it has the extension `.plist`)
 1. Open System Preferences and navigate to **Keyboard** > **Text**
@@ -11,11 +10,14 @@
 #### Gif instructions:
 ![How to "install" Macmoji](https://github.com/warpling/Macmoji/blob/master/gifs/how%20to%20install.gif?raw=true)
 
-## Keyboard Maestro Version
+## Other Installations
+Thanks to the fantastic work of [rael9](https://github.com/rael9) Macmoji now has a script for generating other template files (Maestro, Alfred, etc) from the latest emoji substitutions. If you add to the base `plist` simply run `python scripts/update-km.py` from the base directory and the templates in `templates/*` will be created in the base directory. Creating new templates is [easy and highly encouraged](https://github.com/warpling/Macmoji/pull/14#issuecomment-232850622)!
+
+### Keyboard Maestro Version
 
 If you'd prefer to use Keyboard Maestro to handle the substiutions, import the emojis-km6.kmmacros file in the Keyboard Maestro Editor. Emoji can be added in the editor or by editing the emojis-km6.kmmacros file before importing. The macro can then be exported to back up your changes.
 
-This macro was created and tested using version 6. It has not been tested with other versions.
+(This macro was created and tested using version 6. It has not been tested with other versions.)
 
 ## FAQ
 
@@ -46,10 +48,13 @@ Yep! Highlight and drag out the ones you want to back-up or share and you'll get
 ## Known Problems
 
 #### 😫 Macmoji isn't working in Chrome
-Yeah it's bummer. Chrome uses their own text engine and bypasses the system's autocomplete and a few other things, but fun work around is to open Spotlight (`cmd + space`) type your emojis there, copy, paste, and you're good to go! 👍
+Yeah it's bummer. Chrome bypasses the system's autocomplete (and a few other things), but a passable work around is to open Spotlight (`cmd + space`) type your emojis there, copy, paste, and you're good to go! 👍
+
+#### 😫 The substituions are showing up on my iPhone in weird ways…
+Keyboard text substitutions sync across iCloud. I haven't found a way to disable it short of removing the substitutions and iOS seems to ignore colons 🤕. I will update this if I learn of a solution.
 
 #### 😠 Sometimes it just stops working in some applications
-No clue. Beats me. Have a hunch why? I'd love to know too.
+No clue. Beats me. Have a hunch why? I'd love to hear it!
 
 ## Change Log
 
@@ -58,6 +63,7 @@ The best way to update is to remove all previously added substitutions and then 
 
 |       Date       |       Commit       |       Changes       |
 | ---------------- | ------------------ | ------------------- |
+| July 15, 2016 | [9bcbb39](https://github.com/warpling/Macmoji/commit/9bcbb396a2a91d026b7df15392e7ae69cc0b36d0) | 🤖 Add templating script and Keyboard Maestro version! |
 | July 12, 2016 | [2872b66](https://github.com/warpling/Macmoji/pull/11/commits/2872b66354779bc446c68b71c94d67bf43b0247c) | 📞☎️ Add shortcut for call, and telephone |
 | July 11, 2016 | [781926c](https://github.com/warpling/Macmoji/commit/781926c97496937346a64c68ace755b32f3059fe) | Added Keyboard Maestro macro version |
 | July 8, 2016 | [e7225c2](https://github.com/warpling/Macmoji/commit/e7225c24157385f319f99910ecf5e737016c796b) | 🐴🍷🙎🖖 Add shortcut for mustang, wine, pouting, and spock |
