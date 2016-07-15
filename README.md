@@ -22,7 +22,7 @@ If you'd prefer to use Keyboard Maestro to handle the substiutions, import the e
 ## FAQ
 
 #### 🤔 Can I change/remove substitutions?
-Yep! Macmoji substituions are ordinary text substituions. Double click an entry to change it; highlight and hit delete to remove it. To highlight multiple substituions select one and then while holding shift select another. You can always add your own too of course!
+Yep! Macmoji substitutions are ordinary text substitutions. Double click an entry to change it; highlight and hit delete to remove it. To highlight multiple substitutions select one and then while holding shift select another. You can always add your own too of course!
 
 Some fun recommendations:
 
@@ -38,7 +38,7 @@ Well it's [what Slack does](https://get.slack.help/hc/en-us/articles/202931348-E
 #### 🖐🏽 What about skin tones?
 Type your skin-tonable emoji, then type `:skin-tone-3:` (any number 1-5) to add the skintone. They should combine!
 
-#### 😱 I have suggetions and mistakes to point out!
+#### 😱 I have suggestions and mistakes to point out!
 Let me know in the issues *orrr* file a [pull request](https://yangsu.github.io/pull-request-tutorial/)!
 
 #### 😯 Can I back-up or share my substitutions?
