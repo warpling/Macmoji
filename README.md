@@ -48,9 +48,9 @@ Yep! Highlight and drag out the ones you want to back-up or share and you'll get
 ## Known Problems
 
 #### 😫 Macmoji isn't working in Chrome
-Yeah it's bummer. Chrome bypasses the system's autocomplete (and a few other things), but a passable work around is to open Spotlight (`cmd + space`) type your emojis there, copy, paste, and you're good to go! 👍
+Yeah it's a bummer. Chrome bypasses the system's autocomplete (and a few other things), but a passable work around is to open Spotlight (`cmd + space`) type your emojis there, copy, paste, and you're good to go! 👍
 
-#### 😫 The substituions are showing up on my iPhone in weird ways…
+#### 😫 The substitutions are showing up on my iPhone in weird ways…
 Keyboard text substitutions sync across iCloud. I haven't found a way to disable it short of removing the substitutions and iOS seems to ignore colons 🤕. I will update this if I learn of a solution.
 
 #### 😠 Sometimes it just stops working in some applications
