@@ -45,7 +45,6 @@ install() {
     replace=`${PLIST_BUDDY} -c "Print :${cnt}:shortcut" "${EMOJI_SUBSTITUTIONS}"`
     with=`${PLIST_BUDDY} -c "Print :${cnt}:phrase" "${EMOJI_SUBSTITUTIONS}"`
     plist+="{on=1;replace=\"${replace}\";with=\"${with}\";},"
-    `${PLIST_BUDDY} -c 'Delete :NSUserDictionaryReplacementItems:' "${EMOJI_SUBSTITUTIONS}" | grep 'Dict' | wc -l`
     sql+="INSERT INTO 'ZUSERDICTIONARYENTRY' VALUES($((${pk})),1,1,0,0,0,0,${DATE},NULL,NULL,NULL,NULL,NULL,\"${with}\",\"${replace}\",NULL);"
   done
 
