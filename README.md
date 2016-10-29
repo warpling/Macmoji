@@ -33,7 +33,7 @@ Some fun recommendations:
 | eml      | your@email.com |
 
 #### 💩 Why the colons?
-Well it's [what Slack does](https://get.slack.help/hc/en-us/articles/202931348-Emoji-and-emoticons) *and* it prevents mac os's autocomplete from being too aggressive when you're just trying to type normal sentences like, "ghost bananas are cool." 👻🍌🆒
+Well it's [what Slack does](https://get.slack.help/hc/en-us/articles/202931348-Emoji-and-emoticons) *and* it prevents macOS's autocomplete from being too aggressive when you're just trying to type normal sentences like, "ghost bananas are cool." 👻🍌🆒
 
 #### 🖐🏽 What about skin tones?
 Type your skin-tonable emoji, then type `:skin-tone-3:` (any number 1-5) to add the skintone. They should combine!
