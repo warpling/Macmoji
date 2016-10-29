@@ -6398,5 +6398,17 @@
     <key>shortcut</key>
     <string>:booty:</string>
   </dict>
+  <dict>
+    <key>phrase</key>
+    <string>(╯°□°）╯︵ ┻━┻</string>
+    <key>shortcut</key>
+    <string>:flip:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>┬─┬ノ( º _ ºノ)</string>
+    <key>shortcut</key>
+    <string>:unflip:</string>
+  </dict>
 </array>
 </plist>
