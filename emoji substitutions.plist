@@ -1408,9 +1408,15 @@
   </dict>
   <dict>
     <key>phrase</key>
+    <string>🏈</string>
+    <key>shortcut</key>
+    <string>:handegg:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>🏉</string>
     <key>shortcut</key>
-    <string>:rugby_football:</string>
+    <string>:rugby:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6301,6 +6307,12 @@
     <string>⚽</string>
     <key>shortcut</key>
     <string>:soccer:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>⚽</string>
+    <key>shortcut</key>
+    <string>:eu_football:</string>
   </dict>
   <dict>
     <key>phrase</key>
