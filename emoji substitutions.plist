@@ -6794,5 +6794,11 @@
     <key>shortcut</key>
     <string>:male_sign:</string>
   </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🎅</string>
+    <key>shortcut</key>
+    <string>:santa:</string>
+  </dict>
 </array>
 </plist>
