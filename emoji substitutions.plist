@@ -1318,6 +1318,12 @@
   </dict>
   <dict>
     <key>phrase</key>
+    <string>🏳️‍🌈</string>
+    <key>shortcut</key>
+    <string>:rainbow_flag:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>🏂</string>
     <key>shortcut</key>
     <string>:snowboarder:</string>
@@ -1330,15 +1336,51 @@
   </dict>
   <dict>
     <key>phrase</key>
+    <string>🏃‍♀️</string>
+    <key>shortcut</key>
+    <string>:female_runner:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🏃</string>
+    <key>shortcut</key>
+    <string>:male_runner:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>🏃</string>
     <key>shortcut</key>
     <string>:running:</string>
   </dict>
   <dict>
     <key>phrase</key>
+    <string>🏃‍♀️</string>
+    <key>shortcut</key>
+    <string>:woman_running:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🏃</string>
+    <key>shortcut</key>
+    <string>:man_running:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>🏄</string>
     <key>shortcut</key>
     <string>:surfer:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🏄‍♀️</string>
+    <key>shortcut</key>
+    <string>:female_surfer:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🏄</string>
+    <key>shortcut</key>
+    <string>:male_surfer:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1366,9 +1408,15 @@
   </dict>
   <dict>
     <key>phrase</key>
+    <string>🏈</string>
+    <key>shortcut</key>
+    <string>:handegg:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>🏉</string>
     <key>shortcut</key>
-    <string>:rugby_football:</string>
+    <string>:rugby:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1378,15 +1426,51 @@
   </dict>
   <dict>
     <key>phrase</key>
+    <string>🏊‍♀️</string>
+    <key>shortcut</key>
+    <string>:female_swimmer:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🏊</string>
+    <key>shortcut</key>
+    <string>:male_swimmer:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>🏋</string>
     <key>shortcut</key>
     <string>:weight_lifter:</string>
   </dict>
   <dict>
     <key>phrase</key>
+    <string>🏋️‍♀️</string>
+    <key>shortcut</key>
+    <string>:female_weight_lifter:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🏋</string>
+    <key>shortcut</key>
+    <string>:male_weight_lifter:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>🏌</string>
     <key>shortcut</key>
     <string>:golfer:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🏌️‍♀️</string>
+    <key>shortcut</key>
+    <string>:female_golfer:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🏌</string>
+    <key>shortcut</key>
+    <string>:male_golfer:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2368,6 +2452,48 @@
   </dict>
   <dict>
     <key>phrase</key>
+    <string>👨‍👦</string>
+    <key>shortcut</key>
+    <string>:man-boy:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>👨‍👦‍👦</string>
+    <key>shortcut</key>
+    <string>:man-boy-boy:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>👨‍👧‍👦</string>
+    <key>shortcut</key>
+    <string>:man-boy-girl:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>👨‍👧</string>
+    <key>shortcut</key>
+    <string>:man-girl:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>👨‍👧‍👦</string>
+    <key>shortcut</key>
+    <string>:man-girl-boy:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>👨‍👧‍👧</string>
+    <key>shortcut</key>
+    <string>:man-girl-girl:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>👨‍👨‍👦‍👦</string>
+    <key>shortcut</key>
+    <string>:man-man-boy-boy:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>👨‍👨‍👦‍👦</string>
     <key>shortcut</key>
     <string>:man-man-boy-boy:</string>
@@ -2452,6 +2578,42 @@
   </dict>
   <dict>
     <key>phrase</key>
+    <string>👩‍👦</string>
+    <key>shortcut</key>
+    <string>:woman-boy:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>👩‍👦‍👦</string>
+    <key>shortcut</key>
+    <string>:woman-boy-boy:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>👩‍👧‍👦</string>
+    <key>shortcut</key>
+    <string>:woman-boy-girl:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>👩‍👧</string>
+    <key>shortcut</key>
+    <string>:woman-girl:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>👩‍👧‍👦</string>
+    <key>shortcut</key>
+    <string>:man-girl-boy:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>👩‍👧‍👧</string>
+    <key>shortcut</key>
+    <string>:woman-girl-girl:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>👩‍👩‍👦‍👦</string>
     <key>shortcut</key>
     <string>:woman-woman-boy-boy:</string>
@@ -2530,9 +2692,33 @@
   </dict>
   <dict>
     <key>phrase</key>
+    <string>👮‍♀️</string>
+    <key>shortcut</key>
+    <string>:female_cop:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>👮</string>
+    <key>shortcut</key>
+    <string>:male_cop:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>👯</string>
     <key>shortcut</key>
     <string>:dancers:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>👯</string>
+    <key>shortcut</key>
+    <string>:female_dancers:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>👯‍♂️</string>
+    <key>shortcut</key>
+    <string>:male_dancers:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2560,6 +2746,12 @@
   </dict>
   <dict>
     <key>phrase</key>
+    <string>👳‍♀️</string>
+    <key>shortcut</key>
+    <string>:woman_with_turban:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>👴</string>
     <key>shortcut</key>
     <string>:older_man:</string>
@@ -2581,6 +2773,18 @@
     <string>👷</string>
     <key>shortcut</key>
     <string>:construction_worker:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>👷‍♀️</string>
+    <key>shortcut</key>
+    <string>:female_construction_worker:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>👷</string>
+    <key>shortcut</key>
+    <string>:male_construction_worker:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2644,9 +2848,27 @@
   </dict>
   <dict>
     <key>phrase</key>
+    <string>💁‍♂️</string>
+    <key>shortcut</key>
+    <string>:information_desk_man:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>💁</string>
+    <key>shortcut</key>
+    <string>:information_desk_woman:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>💂</string>
     <key>shortcut</key>
     <string>:guardsman:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>💂‍♀️</string>
+    <key>shortcut</key>
+    <string>:guardswoman:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2674,9 +2896,33 @@
   </dict>
   <dict>
     <key>phrase</key>
+    <string>💆‍♂️</string>
+    <key>shortcut</key>
+    <string>:man_massage:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>💆</string>
+    <key>shortcut</key>
+    <string>:woman_massage:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>💇</string>
     <key>shortcut</key>
     <string>:haircut:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>💇‍♂️</string>
+    <key>shortcut</key>
+    <string>:man_haircut:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>💇</string>
+    <key>shortcut</key>
+    <string>:woman_haircut:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4030,6 +4276,18 @@
   </dict>
   <dict>
     <key>phrase</key>
+    <string>🕵️‍♀️</string>
+    <key>shortcut</key>
+    <string>:female_sleuth_or_spy:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🕵</string>
+    <key>shortcut</key>
+    <string>:male_sleuth_or_spy:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>🕶</string>
     <key>shortcut</key>
     <string>:dark_sunglasses:</string>
@@ -4696,6 +4954,18 @@
   </dict>
   <dict>
     <key>phrase</key>
+    <string>🙅‍♂️</string>
+    <key>shortcut</key>
+    <string>:no_good_man:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🙆‍♂️</string>
+    <key>shortcut</key>
+    <string>:ok_man:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>🙆</string>
     <key>shortcut</key>
     <string>:ok_woman:</string>
@@ -4705,6 +4975,18 @@
     <string>🙇</string>
     <key>shortcut</key>
     <string>:bow:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🙇</string>
+    <key>shortcut</key>
+    <string>:bow_man:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🙇‍♀️</string>
+    <key>shortcut</key>
+    <string>:bow_woman:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4732,6 +5014,18 @@
   </dict>
   <dict>
     <key>phrase</key>
+    <string>🙋‍♂️</string>
+    <key>shortcut</key>
+    <string>:man_raising_hand:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🙋</string>
+    <key>shortcut</key>
+    <string>:woman_raising_hand:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>🙌</string>
     <key>shortcut</key>
     <string>:raised_hands:</string>
@@ -4744,15 +5038,51 @@
   </dict>
   <dict>
     <key>phrase</key>
+    <string>🙍‍♂️</string>
+    <key>shortcut</key>
+    <string>:man_frowning:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🙍</string>
+    <key>shortcut</key>
+    <string>:woman_frowning:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>🙎</string>
     <key>shortcut</key>
     <string>:person_with_pouting_face:</string>
   </dict>
   <dict>
     <key>phrase</key>
+    <string>🙎‍♂️</string>
+    <key>shortcut</key>
+    <string>:man_with_pouting_face:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🙎</string>
+    <key>shortcut</key>
+    <string>:woman_with_pouting_face:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>🙎</string>
     <key>shortcut</key>
     <string>:pouting:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🙎‍♂️</string>
+    <key>shortcut</key>
+    <string>:man_pouting:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🙎</string>
+    <key>shortcut</key>
+    <string>:woman_pouting:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4984,6 +5314,18 @@
   </dict>
   <dict>
     <key>phrase</key>
+    <string>🚣</string>
+    <key>shortcut</key>
+    <string>:rowboat_man:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🚣‍♀️</string>
+    <key>shortcut</key>
+    <string>:rowboat_woman:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>🚤</string>
     <key>shortcut</key>
     <string>:speedboat:</string>
@@ -5086,15 +5428,45 @@
   </dict>
   <dict>
     <key>phrase</key>
+    <string>🚴‍♀️</string>
+    <key>shortcut</key>
+    <string>:female_bicyclist:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🚴</string>
+    <key>shortcut</key>
+    <string>:male_bicyclist:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>🚵</string>
     <key>shortcut</key>
     <string>:mountain_bicyclist:</string>
   </dict>
   <dict>
     <key>phrase</key>
+    <string>🚵‍♀️</string>
+    <key>shortcut</key>
+    <string>:female_mountain_bicyclist:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🚵</string>
+    <key>shortcut</key>
+    <string>:male_mountain_bicyclist:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>🚶</string>
     <key>shortcut</key>
     <string>:walking:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🚶‍♀️</string>
+    <key>shortcut</key>
+    <string>:walking_woman:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5938,6 +6310,12 @@
   </dict>
   <dict>
     <key>phrase</key>
+    <string>⚽</string>
+    <key>shortcut</key>
+    <string>:eu_football:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>⚾️</string>
     <key>shortcut</key>
     <string>:baseball:</string>
@@ -6061,6 +6439,12 @@
     <string>⛹</string>
     <key>shortcut</key>
     <string>:person_with_ball:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>⛹️‍♀️</string>
+    <key>shortcut</key>
+    <string>:woman_with_ball:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6397,6 +6781,18 @@
     <string>🍑</string>
     <key>shortcut</key>
     <string>:booty:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>♀</string>
+    <key>shortcut</key>
+    <string>:female_sign:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>♂</string>
+    <key>shortcut</key>
+    <string>:male_sign:</string>
   </dict>
 </array>
 </plist>
