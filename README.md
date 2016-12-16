@@ -8,7 +8,7 @@
 4. Type something like `:boom:` or `:blackbox:` and hit space after! 💥⬛️
 
 ##### Know bash?
-1. Just run `./scrips/macmoji install` (or even `uninstall`!)
+1. Just run `./scripts/macmoji install` (or even `uninstall`!)
 (Thanks [mshick](https://github.com/mshick)!)
 
 #### Gif instructions:
