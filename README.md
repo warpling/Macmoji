@@ -67,6 +67,7 @@ The best way to update is to remove all previously added substitutions and then 
 
 |       Date       |       Commit       |       Changes       |
 | ---------------- | ------------------ | ------------------- |
+| December 21, 2016 | [86da2bba](https://github.com/warpling/Macmoji/commit/86da2bbae6d3dbc8edecf63bb1111365b12e1624) |  🎩 Add Alfred version |
 | July 15, 2016 | [9bcbb39](https://github.com/warpling/Macmoji/commit/9bcbb396a2a91d026b7df15392e7ae69cc0b36d0) | 🤖 Add templating script and Keyboard Maestro version! |
 | July 12, 2016 | [2872b66](https://github.com/warpling/Macmoji/pull/11/commits/2872b66354779bc446c68b71c94d67bf43b0247c) | 📞☎️ Add shortcut for call, and telephone |
 | July 11, 2016 | [781926c](https://github.com/warpling/Macmoji/commit/781926c97496937346a64c68ace755b32f3059fe) | Added Keyboard Maestro macro version |
