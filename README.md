@@ -15,13 +15,17 @@
 ![How to "install" Macmoji](https://github.com/warpling/Macmoji/blob/master/gifs/how%20to%20install.gif?raw=true)
 
 ## Other Installations
-Thanks to the fantastic work of [rael9](https://github.com/rael9) Macmoji now has a script for generating other template files (Maestro, Alfred, etc) from the latest emoji substitutions. If you add to the base `plist` simply run `python scripts/update-km.py` from the base directory and the templates in `templates/*` will be created in the base directory. Creating new templates is [easy and highly encouraged](https://github.com/warpling/Macmoji/pull/14#issuecomment-232850622)!
+Thanks to the fantastic work of [rael9](https://github.com/rael9) Macmoji now has a script for generating other template files (Maestro, Alfred, etc) from the latest emoji substitutions list. If you add emoji substitutions to the base `plist` simply run `python scripts/update-km.py` from the base directory and the various outputs based on the templates in `templates/*` will be generated in the base directory. Creating new templates is [easy and highly encouraged](https://github.com/warpling/Macmoji/pull/14#issuecomment-232850622)!
 
 ### Keyboard Maestro Version
 
-If you'd prefer to use Keyboard Maestro to handle the substiutions, import the emojis-km6.kmmacros file in the Keyboard Maestro Editor. Emoji can be added in the editor or by editing the emojis-km6.kmmacros file before importing. The macro can then be exported to back up your changes.
+If you'd prefer to use Keyboard Maestro to handle the substiutions, import the emojis-km6.kmmacros file in the Keyboard Maestro Editor.
 
-(This macro was created and tested using version 6. It has not been tested with other versions.)
+*(This macro was created and tested using version 6. It has not been tested with other versions.)*
+
+### Alfred Version
+
+If you'd prefer to import these shortcuts with Alfred as Snipets just drag the `.alfredsnippets` into Alfred's Snippet preferences!  
 
 ## FAQ
 
@@ -67,8 +71,9 @@ The best way to update is to remove all previously added substitutions and then 
 
 |       Date       |       Commit       |       Changes       |
 | ---------------- | ------------------ | ------------------- |
+| March 12, 2017 | [9bcbb39](https://github.com/warpling/Macmoji/commit/4b6b55cad36cc14ad522418cad758bf6856d7cf9) | 🎩 Add Aflred snippets. (Thanks @valrus!) |
 | July 15, 2016 | [9bcbb39](https://github.com/warpling/Macmoji/commit/9bcbb396a2a91d026b7df15392e7ae69cc0b36d0) | 🤖 Add templating script and Keyboard Maestro version! |
 | July 12, 2016 | [2872b66](https://github.com/warpling/Macmoji/pull/11/commits/2872b66354779bc446c68b71c94d67bf43b0247c) | 📞☎️ Add shortcut for call, and telephone |
-| July 11, 2016 | [781926c](https://github.com/warpling/Macmoji/commit/781926c97496937346a64c68ace755b32f3059fe) | Added Keyboard Maestro macro version |
-| July 8, 2016 | [e7225c2](https://github.com/warpling/Macmoji/commit/e7225c24157385f319f99910ecf5e737016c796b) | 🐴🍷🙎🖖 Add shortcut for mustang, wine, pouting, and spock |
-| July 8, 2016 | [2f84c61](https://github.com/warpling/Macmoji/commit/2f84c6169546a22246f42a4b56eaec7d8ef979d5) | ⚽⚾️⛄⛅ Fix mismatched shortcuts for soccer, baseball, snowman, and partially_sunny |
+| July 11, 2016 | [781926c](https://github.com/warpling/Macmoji/commit/781926c97496937346a64c68ace755b32f3059fe) | Added Keyboard Maestro macro version. |
+| July 8, 2016 | [e7225c2](https://github.com/warpling/Macmoji/commit/e7225c24157385f319f99910ecf5e737016c796b) | 🐴🍷🙎🖖 Add shortcut for mustang, wine, pouting, and spock. |
+| July 8, 2016 | [2f84c61](https://github.com/warpling/Macmoji/commit/2f84c6169546a22246f42a4b56eaec7d8ef979d5) | ⚽⚾️⛄⛅ Fix mismatched shortcuts for soccer, baseball, snowman, and partially_sunny. |
