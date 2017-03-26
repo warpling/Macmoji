@@ -64,6 +64,12 @@ Keyboard text substitutions sync across iCloud. I haven't found a way to disable
 #### 😠 Sometimes it just stops working in some applications
 No clue. Beats me. Have a hunch why? I'd love to hear it!
 
+#### ☹️ `realpath: command not found`
+You may need to install [Homebrew](https://brew.sh/) and then run the following to install `coreutils`. Please comment on [issue #35](https://github.com/warpling/Macmoji/issues/35) if you experience this!
+```
+brew install coreutils
+```
+
 ## Change Log
 
 The best way to update is to remove all previously added substitutions and then drag in the plist again (hold `shift` to select all the colon clad substitutions).
