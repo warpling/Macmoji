@@ -5,3 +5,4 @@ Have subsitution ideas? Keep them tidy with a table!
 | :------- | ------- |
 | laughing | 😄 |
 | silly | 😜 |
+| boom | 💥 |
