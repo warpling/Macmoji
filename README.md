@@ -19,13 +19,13 @@ Thanks to the fantastic work of [rael9](https://github.com/rael9) Macmoji now ha
 
 ### Keyboard Maestro Version
 
-If you'd prefer to use Keyboard Maestro to handle the substiutions, import the emojis-km6.kmmacros file in the Keyboard Maestro Editor.
+If you'd prefer to use Keyboard Maestro to handle the substitutions, import the emojis-km6.kmmacros file in the Keyboard Maestro Editor.
 
 *(This macro was created and tested using version 6. It has not been tested with other versions.)*
 
 ### Alfred Version
 
-If you'd prefer to import these shortcuts with Alfred as Snipets just drag the `.alfredsnippets` into Alfred's Snippet preferences!  
+If you'd prefer to import these shortcuts with Alfred as Snippets just drag the `.alfredsnippets` into Alfred's Snippet preferences!  
 
 ## FAQ
 
