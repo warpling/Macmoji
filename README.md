@@ -15,17 +15,17 @@
 ![How to "install" Macmoji](https://github.com/warpling/Macmoji/blob/master/gifs/how%20to%20install.gif?raw=true)
 
 ## Other Installations
-Thanks to the fantastic work of [rael9](https://github.com/rael9) Macmoji now has a script for generating other template files (Maestro, Alfred, etc) from the latest emoji substitutions list. If you add emoji substitutions to the base `plist` simply run `python scripts/update-km.py` from the base directory and the various outputs based on the templates in `templates/*` will be generated in the base directory. Creating new templates is [easy and highly encouraged](https://github.com/warpling/Macmoji/pull/14#issuecomment-232850622)!
+Thanks to the fantastic work of [rael9](https://github.com/rael9) Macmoji now has a script for generating other template files (Maestro, Alfred, etc) from the latest emoji substitutions list. If you add emoji substitutions to the base `plist` simply run `python scripts/update-output.py` from the base directory and the various outputs based on the templates in `templates/*` will be generated in the base directory. Creating new templates is [easy and highly encouraged](https://github.com/warpling/Macmoji/pull/14#issuecomment-232850622)!
 
 ### Keyboard Maestro Version
 
-If you'd prefer to use Keyboard Maestro to handle the substiutions, import the emojis-km6.kmmacros file in the Keyboard Maestro Editor.
+If you'd prefer to use Keyboard Maestro to handle the substitutions, import the `emojis-km6.kmmacros` file in the Keyboard Maestro Editor.
 
 *(This macro was created and tested using version 6. It has not been tested with other versions.)*
 
 ### Alfred Version
 
-If you'd prefer to import these shortcuts with Alfred as Snipets just drag the `.alfredsnippets` into Alfred's Snippet preferences!  
+If you'd prefer to import these shortcuts with Alfred as Snippets just drag the `.alfredsnippets` into Alfred's Snippet preferences!  
 
 ## FAQ
 
