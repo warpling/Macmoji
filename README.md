@@ -77,6 +77,7 @@ The best way to update is to remove all previously added substitutions and then 
 
 |       Date       |       Commit       |       Changes       |
 | ---------------- | ------------------ | ------------------- |
+| April 9, 2019 | [22884a5](https://github.com/camlloyd/Macmoji/commit/22884a557326e3491b2d285ef49c4e1a44cd3a90) |  🇨🇳🇧🇷🇦🇺 Add country flags
 | November 16, 2018 | [3ce4c43](https://github.com/warpling/Macmoji/commit/3ce4c437e563b9454100712cbfd80d08930ce3d5) | 🤯🧠🦅 Add Unicode 9.0-11.0 emoji (Huge thanks to @camlloyd) |
 | March 12, 2017 | [9bcbb39](https://github.com/warpling/Macmoji/commit/4b6b55cad36cc14ad522418cad758bf6856d7cf9) | 🎩 Add Alfred snippets. (Thanks @valrus!) |
 | July 15, 2016 | [9bcbb39](https://github.com/warpling/Macmoji/commit/9bcbb396a2a91d026b7df15392e7ae69cc0b36d0) | 🤖 Add templating script and Keyboard Maestro version! |
