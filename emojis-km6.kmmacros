@@ -1623,6 +1623,8 @@
 :flag_gbeng:,🏴󠁧󠁢󠁥󠁮󠁧󠁿
 :flag_gbsct:,🏴󠁧󠁢󠁳󠁣󠁴󠁿
 :flag_gbwls:,🏴󠁧󠁢󠁷󠁬󠁳󠁿
+:apple_logo:,
+:beats_1_logo:,
 </string>
 						<key>Variable</key>
 						<string>emoji_list</string>
