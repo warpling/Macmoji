@@ -9530,5 +9530,23 @@
     <key>shortcut</key>
     <string>:flag_zw:</string>
   </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🏴󠁧󠁢󠁥󠁮󠁧󠁿</string>
+    <key>shortcut</key>
+    <string>:flag_gbeng:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🏴󠁧󠁢󠁳󠁣󠁴󠁿</string>
+    <key>shortcut</key>
+    <string>:flag_gbsct:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🏴󠁧󠁢󠁷󠁬󠁳󠁿</string>
+    <key>shortcut</key>
+    <string>:flag_gbwls:</string>
+  </dict>
 </array>
 </plist>

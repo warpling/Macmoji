@@ -1620,6 +1620,9 @@
 :flag_za:,🇿🇦
 :flag_zm:,🇿🇲
 :flag_zw:,🇿🇼
+:flag_gbeng:,🏴󠁧󠁢󠁥󠁮󠁧󠁿
+:flag_gbsct:,🏴󠁧󠁢󠁳󠁣󠁴󠁿
+:flag_gbwls:,🏴󠁧󠁢󠁷󠁬󠁳󠁿
 </string>
 						<key>Variable</key>
 						<string>emoji_list</string>
