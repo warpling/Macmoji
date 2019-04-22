@@ -7978,6 +7978,18 @@
   </dict>
   <dict>
     <key>phrase</key>
+    <string>♾️</string>
+    <key>shortcut</key>
+    <string>:permanent_paper_sign:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🏴‍☠️</string>
+    <key>shortcut</key>
+    <string>:pirate_flag:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
     <string>🇦🇨</string>
     <key>shortcut</key>
     <string>:flag_ac:</string>
