@@ -1361,6 +1361,8 @@
 :roll_of_paper:,🧻
 :bar_of_soap:,🧼
 :sponge:,🧽
+:permanent_paper_sign:,♾️
+:pirate_flag:,🏴‍☠️
 :flag_ac:,🇦🇨
 :flag_ad:,🇦🇩
 :flag_ae:,🇦🇪
@@ -1618,6 +1620,11 @@
 :flag_za:,🇿🇦
 :flag_zm:,🇿🇲
 :flag_zw:,🇿🇼
+:flag_gbeng:,🏴󠁧󠁢󠁥󠁮󠁧󠁿
+:flag_gbsct:,🏴󠁧󠁢󠁳󠁣󠁴󠁿
+:flag_gbwls:,🏴󠁧󠁢󠁷󠁬󠁳󠁿
+:apple_logo:,
+:beats_1_logo:,
 </string>
 						<key>Variable</key>
 						<string>emoji_list</string>
