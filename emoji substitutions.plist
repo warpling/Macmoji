@@ -78,7 +78,7 @@
     <key>phrase</key>
     <string>🃏</string>
     <key>shortcut</key>
-    <string>:black_joker:</string>
+    <string>:black-joker:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -168,19 +168,19 @@
     <key>phrase</key>
     <string>🌂</string>
     <key>shortcut</key>
-    <string>:closed_umbrella:</string>
+    <string>:closed-umbrella:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌃</string>
     <key>shortcut</key>
-    <string>:night_with_stars:</string>
+    <string>:night-with-stars:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌄</string>
     <key>shortcut</key>
-    <string>:sunrise_over_mountains:</string>
+    <string>:sunrise-over-mountains:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -192,13 +192,13 @@
     <key>phrase</key>
     <string>🌆</string>
     <key>shortcut</key>
-    <string>:city_sunset:</string>
+    <string>:city-sunset:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌇</string>
     <key>shortcut</key>
-    <string>:city_sunrise:</string>
+    <string>:city-sunrise:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -210,7 +210,7 @@
     <key>phrase</key>
     <string>🌉</string>
     <key>shortcut</key>
-    <string>:bridge_at_night:</string>
+    <string>:bridge-at-night:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -228,49 +228,49 @@
     <key>phrase</key>
     <string>🌌</string>
     <key>shortcut</key>
-    <string>:milky_way:</string>
+    <string>:milky-way:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌍</string>
     <key>shortcut</key>
-    <string>:earth_africa:</string>
+    <string>:earth-africa:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌎</string>
     <key>shortcut</key>
-    <string>:earth_americas:</string>
+    <string>:earth-americas:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌏</string>
     <key>shortcut</key>
-    <string>:earth_asia:</string>
+    <string>:earth-asia:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌐</string>
     <key>shortcut</key>
-    <string>:globe_with_meridians:</string>
+    <string>:globe-with-meridians:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌑</string>
     <key>shortcut</key>
-    <string>:new_moon:</string>
+    <string>:new-moon:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌒</string>
     <key>shortcut</key>
-    <string>:waxing_crescent_moon:</string>
+    <string>:waxing-crescent-moon:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌓</string>
     <key>shortcut</key>
-    <string>:first_quarter_moon:</string>
+    <string>:first-quarter-moon:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -282,67 +282,67 @@
     <key>phrase</key>
     <string>🌔</string>
     <key>shortcut</key>
-    <string>:waxing_gibbous_moon:</string>
+    <string>:waxing-gibbous-moon:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌕</string>
     <key>shortcut</key>
-    <string>:full_moon:</string>
+    <string>:full-moon:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌖</string>
     <key>shortcut</key>
-    <string>:waning_gibbous_moon:</string>
+    <string>:waning-gibbous-moon:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌗</string>
     <key>shortcut</key>
-    <string>:last_quarter_moon:</string>
+    <string>:last-quarter-moon:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌘</string>
     <key>shortcut</key>
-    <string>:waning_crescent_moon:</string>
+    <string>:waning-crescent-moon:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌙</string>
     <key>shortcut</key>
-    <string>:crescent_moon:</string>
+    <string>:crescent-moon:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌚</string>
     <key>shortcut</key>
-    <string>:new_moon_with_face:</string>
+    <string>:new-moon-with-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌛</string>
     <key>shortcut</key>
-    <string>:first_quarter_moon_with_face:</string>
+    <string>:first-quarter-moon-with-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌜</string>
     <key>shortcut</key>
-    <string>:last_quarter_moon_with_face:</string>
+    <string>:last-quarter-moon-with-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌝</string>
     <key>shortcut</key>
-    <string>:full_moon_with_face:</string>
+    <string>:full-moon-with-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌞</string>
     <key>shortcut</key>
-    <string>:sun_with_face:</string>
+    <string>:sun-with-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -366,49 +366,49 @@
     <key>phrase</key>
     <string>🌤</string>
     <key>shortcut</key>
-    <string>:mostly_sunny:</string>
+    <string>:mostly-sunny:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌤</string>
     <key>shortcut</key>
-    <string>:sun_small_cloud:</string>
+    <string>:sun-small-cloud:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌥</string>
     <key>shortcut</key>
-    <string>:barely_sunny:</string>
+    <string>:barely-sunny:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌥</string>
     <key>shortcut</key>
-    <string>:sun_behind_cloud:</string>
+    <string>:sun-behind-cloud:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌦</string>
     <key>shortcut</key>
-    <string>:partly_sunny_rain:</string>
+    <string>:partly-sunny-rain:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌦</string>
     <key>shortcut</key>
-    <string>:sun_behind_rain_cloud:</string>
+    <string>:sun-behind-rain-cloud:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌧</string>
     <key>shortcut</key>
-    <string>:rain_cloud:</string>
+    <string>:rain-cloud:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌨</string>
     <key>shortcut</key>
-    <string>:snow_cloud:</string>
+    <string>:snow-cloud:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -420,7 +420,7 @@
     <key>phrase</key>
     <string>🌩</string>
     <key>shortcut</key>
-    <string>:lightning_cloud:</string>
+    <string>:lightning-cloud:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -432,7 +432,7 @@
     <key>phrase</key>
     <string>🌪</string>
     <key>shortcut</key>
-    <string>:tornado_cloud:</string>
+    <string>:tornado-cloud:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -444,7 +444,7 @@
     <key>phrase</key>
     <string>🌬</string>
     <key>shortcut</key>
-    <string>:wind_blowing_face:</string>
+    <string>:wind-blowing-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -480,19 +480,19 @@
     <key>phrase</key>
     <string>🌲</string>
     <key>shortcut</key>
-    <string>:evergreen_tree:</string>
+    <string>:evergreen-tree:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌳</string>
     <key>shortcut</key>
-    <string>:deciduous_tree:</string>
+    <string>:deciduous-tree:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🌴</string>
     <key>shortcut</key>
-    <string>:palm_tree:</string>
+    <string>:palm-tree:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -504,7 +504,7 @@
     <key>phrase</key>
     <string>🌶</string>
     <key>shortcut</key>
-    <string>:hot_pepper:</string>
+    <string>:hot-pepper:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -516,7 +516,7 @@
     <key>phrase</key>
     <string>🌸</string>
     <key>shortcut</key>
-    <string>:cherry_blossom:</string>
+    <string>:cherry-blossom:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -552,7 +552,7 @@
     <key>phrase</key>
     <string>🌾</string>
     <key>shortcut</key>
-    <string>:ear_of_rice:</string>
+    <string>:ear-of-rice:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -564,19 +564,19 @@
     <key>phrase</key>
     <string>🍀</string>
     <key>shortcut</key>
-    <string>:four_leaf_clover:</string>
+    <string>:four-leaf-clover:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🍁</string>
     <key>shortcut</key>
-    <string>:maple_leaf:</string>
+    <string>:maple-leaf:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🍂</string>
     <key>shortcut</key>
-    <string>:fallen_leaf:</string>
+    <string>:fallen-leaf:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -654,7 +654,7 @@
     <key>phrase</key>
     <string>🍏</string>
     <key>shortcut</key>
-    <string>:green_apple:</string>
+    <string>:green-apple:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -696,25 +696,25 @@
     <key>phrase</key>
     <string>🍖</string>
     <key>shortcut</key>
-    <string>:meat_on_bone:</string>
+    <string>:meat-on-bone:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🍗</string>
     <key>shortcut</key>
-    <string>:poultry_leg:</string>
+    <string>:poultry-leg:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🍘</string>
     <key>shortcut</key>
-    <string>:rice_cracker:</string>
+    <string>:rice-cracker:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🍙</string>
     <key>shortcut</key>
-    <string>:rice_ball:</string>
+    <string>:rice-ball:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -756,7 +756,7 @@
     <key>phrase</key>
     <string>🍠</string>
     <key>shortcut</key>
-    <string>:sweet_potato:</string>
+    <string>:sweet-potato:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -780,13 +780,13 @@
     <key>phrase</key>
     <string>🍤</string>
     <key>shortcut</key>
-    <string>:fried_shrimp:</string>
+    <string>:fried-shrimp:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🍥</string>
     <key>shortcut</key>
-    <string>:fish_cake:</string>
+    <string>:fish-cake:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -798,13 +798,13 @@
     <key>phrase</key>
     <string>🍧</string>
     <key>shortcut</key>
-    <string>:shaved_ice:</string>
+    <string>:shaved-ice:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🍨</string>
     <key>shortcut</key>
-    <string>:ice_cream:</string>
+    <string>:ice-cream:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -822,7 +822,7 @@
     <key>phrase</key>
     <string>🍫</string>
     <key>shortcut</key>
-    <string>:chocolate_bar:</string>
+    <string>:chocolate-bar:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -846,7 +846,7 @@
     <key>phrase</key>
     <string>🍯</string>
     <key>shortcut</key>
-    <string>:honey_pot:</string>
+    <string>:honey-pot:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -876,7 +876,7 @@
     <key>phrase</key>
     <string>🍴</string>
     <key>shortcut</key>
-    <string>:fork_and_knife:</string>
+    <string>:fork-and-knife:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -894,7 +894,7 @@
     <key>phrase</key>
     <string>🍷</string>
     <key>shortcut</key>
-    <string>:wine_glass:</string>
+    <string>:wine-glass:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -912,7 +912,7 @@
     <key>phrase</key>
     <string>🍹</string>
     <key>shortcut</key>
-    <string>:tropical_drink:</string>
+    <string>:tropical-drink:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -930,13 +930,13 @@
     <key>phrase</key>
     <string>🍼</string>
     <key>shortcut</key>
-    <string>:baby_bottle:</string>
+    <string>:baby-bottle:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🍽</string>
     <key>shortcut</key>
-    <string>:knife_fork_plate:</string>
+    <string>:knife-fork-plate:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -972,7 +972,7 @@
     <key>phrase</key>
     <string>🎃</string>
     <key>shortcut</key>
-    <string>:jack_o_lantern:</string>
+    <string>:jack-o-lantern:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -984,7 +984,7 @@
     <key>phrase</key>
     <string>🎄</string>
     <key>shortcut</key>
-    <string>:christmas_tree:</string>
+    <string>:christmas-tree:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1014,19 +1014,19 @@
     <key>phrase</key>
     <string>🎊</string>
     <key>shortcut</key>
-    <string>:confetti_ball:</string>
+    <string>:confetti-ball:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🎋</string>
     <key>shortcut</key>
-    <string>:tanabata_tree:</string>
+    <string>:tanabata-tree:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🎌</string>
     <key>shortcut</key>
-    <string>:crossed_flags:</string>
+    <string>:crossed-flags:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1050,25 +1050,25 @@
     <key>phrase</key>
     <string>🎐</string>
     <key>shortcut</key>
-    <string>:wind_chime:</string>
+    <string>:wind-chime:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🎑</string>
     <key>shortcut</key>
-    <string>:rice_scene:</string>
+    <string>:rice-scene:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🎒</string>
     <key>shortcut</key>
-    <string>:school_satchel:</string>
+    <string>:school-satchel:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🎓</string>
     <key>shortcut</key>
-    <string>:mortar_board:</string>
+    <string>:mortar-board:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1080,61 +1080,61 @@
     <key>phrase</key>
     <string>🎗</string>
     <key>shortcut</key>
-    <string>:reminder_ribbon:</string>
+    <string>:reminder-ribbon:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🎙</string>
     <key>shortcut</key>
-    <string>:studio_microphone:</string>
+    <string>:studio-microphone:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🎚</string>
     <key>shortcut</key>
-    <string>:level_slider:</string>
+    <string>:level-slider:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🎛</string>
     <key>shortcut</key>
-    <string>:control_knobs:</string>
+    <string>:control-knobs:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🎞</string>
     <key>shortcut</key>
-    <string>:film_frames:</string>
+    <string>:film-frames:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🎟</string>
     <key>shortcut</key>
-    <string>:admission_tickets:</string>
+    <string>:admission-tickets:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🎠</string>
     <key>shortcut</key>
-    <string>:carousel_horse:</string>
+    <string>:carousel-horse:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🎡</string>
     <key>shortcut</key>
-    <string>:ferris_wheel:</string>
+    <string>:ferris-wheel:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🎢</string>
     <key>shortcut</key>
-    <string>:roller_coaster:</string>
+    <string>:roller-coaster:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🎣</string>
     <key>shortcut</key>
-    <string>:fishing_pole_and_fish:</string>
+    <string>:fishing-pole-and-fish:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1146,7 +1146,7 @@
     <key>phrase</key>
     <string>🎥</string>
     <key>shortcut</key>
-    <string>:movie_camera:</string>
+    <string>:movie-camera:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1176,7 +1176,7 @@
     <key>phrase</key>
     <string>🎪</string>
     <key>shortcut</key>
-    <string>:circus_tent:</string>
+    <string>:circus-tent:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1194,13 +1194,13 @@
     <key>phrase</key>
     <string>🎭</string>
     <key>shortcut</key>
-    <string>:performing_arts:</string>
+    <string>:performing-arts:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🎮</string>
     <key>shortcut</key>
-    <string>:video_game:</string>
+    <string>:video-game:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1212,7 +1212,7 @@
     <key>phrase</key>
     <string>🎰</string>
     <key>shortcut</key>
-    <string>:slot_machine:</string>
+    <string>:slot-machine:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1224,7 +1224,7 @@
     <key>phrase</key>
     <string>🎲</string>
     <key>shortcut</key>
-    <string>:game_die:</string>
+    <string>:game-die:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1236,13 +1236,13 @@
     <key>phrase</key>
     <string>🎴</string>
     <key>shortcut</key>
-    <string>:flower_playing_cards:</string>
+    <string>:flower-playing-cards:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🎵</string>
     <key>shortcut</key>
-    <string>:musical_note:</string>
+    <string>:musical-note:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1266,7 +1266,7 @@
     <key>phrase</key>
     <string>🎹</string>
     <key>shortcut</key>
-    <string>:musical_keyboard:</string>
+    <string>:musical-keyboard:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1284,13 +1284,13 @@
     <key>phrase</key>
     <string>🎼</string>
     <key>shortcut</key>
-    <string>:musical_score:</string>
+    <string>:musical-score:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🎽</string>
     <key>shortcut</key>
-    <string>:running_shirt_with_sash:</string>
+    <string>:running-shirt-with-sash:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1314,13 +1314,13 @@
     <key>phrase</key>
     <string>🏁</string>
     <key>shortcut</key>
-    <string>:checkered_flag:</string>
+    <string>:checkered-flag:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏳️‍🌈</string>
     <key>shortcut</key>
-    <string>:rainbow_flag:</string>
+    <string>:rainbow-flag:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1338,13 +1338,13 @@
     <key>phrase</key>
     <string>🏃‍♀️</string>
     <key>shortcut</key>
-    <string>:female_runner:</string>
+    <string>:female-runner:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏃</string>
     <key>shortcut</key>
-    <string>:male_runner:</string>
+    <string>:male-runner:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1356,13 +1356,13 @@
     <key>phrase</key>
     <string>🏃‍♀️</string>
     <key>shortcut</key>
-    <string>:woman_running:</string>
+    <string>:woman-running:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏃</string>
     <key>shortcut</key>
-    <string>:man_running:</string>
+    <string>:man-running:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1374,19 +1374,19 @@
     <key>phrase</key>
     <string>🏄‍♀️</string>
     <key>shortcut</key>
-    <string>:female_surfer:</string>
+    <string>:female-surfer:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏄</string>
     <key>shortcut</key>
-    <string>:male_surfer:</string>
+    <string>:male-surfer:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏅</string>
     <key>shortcut</key>
-    <string>:sports_medal:</string>
+    <string>:sports-medal:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1398,7 +1398,7 @@
     <key>phrase</key>
     <string>🏇</string>
     <key>shortcut</key>
-    <string>:horse_racing:</string>
+    <string>:horse-racing:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1428,31 +1428,31 @@
     <key>phrase</key>
     <string>🏊‍♀️</string>
     <key>shortcut</key>
-    <string>:female_swimmer:</string>
+    <string>:female-swimmer:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏊</string>
     <key>shortcut</key>
-    <string>:male_swimmer:</string>
+    <string>:male-swimmer:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏋</string>
     <key>shortcut</key>
-    <string>:weight_lifter:</string>
+    <string>:weight-lifter:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏋️‍♀️</string>
     <key>shortcut</key>
-    <string>:female_weight_lifter:</string>
+    <string>:female-weight-lifter:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏋</string>
     <key>shortcut</key>
-    <string>:male_weight_lifter:</string>
+    <string>:male-weight-lifter:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1464,31 +1464,31 @@
     <key>phrase</key>
     <string>🏌️‍♀️</string>
     <key>shortcut</key>
-    <string>:female_golfer:</string>
+    <string>:female-golfer:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏌</string>
     <key>shortcut</key>
-    <string>:male_golfer:</string>
+    <string>:male-golfer:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏍</string>
     <key>shortcut</key>
-    <string>:racing_motorcycle:</string>
+    <string>:racing-motorcycle:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏎</string>
     <key>shortcut</key>
-    <string>:racing_car:</string>
+    <string>:racing-car:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏏</string>
     <key>shortcut</key>
-    <string>:cricket_bat_and_ball:</string>
+    <string>:cricket-bat-and-ball:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1500,25 +1500,25 @@
     <key>phrase</key>
     <string>🏑</string>
     <key>shortcut</key>
-    <string>:field_hockey_stick_and_ball:</string>
+    <string>:field-hockey-stick-and-ball:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏒</string>
     <key>shortcut</key>
-    <string>:ice_hockey_stick_and_puck:</string>
+    <string>:ice-hockey-stick-and-puck:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏓</string>
     <key>shortcut</key>
-    <string>:table_tennis_paddle_and_ball:</string>
+    <string>:table-tennis-paddle-and-ball:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏔</string>
     <key>shortcut</key>
-    <string>:snow_capped_mountain:</string>
+    <string>:snow-capped-mountain:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1530,19 +1530,19 @@
     <key>phrase</key>
     <string>🏖</string>
     <key>shortcut</key>
-    <string>:beach_with_umbrella:</string>
+    <string>:beach-with-umbrella:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏗</string>
     <key>shortcut</key>
-    <string>:building_construction:</string>
+    <string>:building-construction:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏘</string>
     <key>shortcut</key>
-    <string>:house_buildings:</string>
+    <string>:house-buildings:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1554,13 +1554,13 @@
     <key>phrase</key>
     <string>🏚</string>
     <key>shortcut</key>
-    <string>:derelict_house_building:</string>
+    <string>:derelict-house-building:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏛</string>
     <key>shortcut</key>
-    <string>:classical_building:</string>
+    <string>:classical-building:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1572,13 +1572,13 @@
     <key>phrase</key>
     <string>🏝</string>
     <key>shortcut</key>
-    <string>:desert_island:</string>
+    <string>:desert-island:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏞</string>
     <key>shortcut</key>
-    <string>:national_park:</string>
+    <string>:national-park:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1596,7 +1596,7 @@
     <key>phrase</key>
     <string>🏡</string>
     <key>shortcut</key>
-    <string>:house_with_garden:</string>
+    <string>:house-with-garden:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1608,13 +1608,13 @@
     <key>phrase</key>
     <string>🏣</string>
     <key>shortcut</key>
-    <string>:post_office:</string>
+    <string>:post-office:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏤</string>
     <key>shortcut</key>
-    <string>:european_post_office:</string>
+    <string>:european-post-office:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1644,13 +1644,13 @@
     <key>phrase</key>
     <string>🏩</string>
     <key>shortcut</key>
-    <string>:love_hotel:</string>
+    <string>:love-hotel:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏪</string>
     <key>shortcut</key>
-    <string>:convenience_store:</string>
+    <string>:convenience-store:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1662,7 +1662,7 @@
     <key>phrase</key>
     <string>🏬</string>
     <key>shortcut</key>
-    <string>:department_store:</string>
+    <string>:department-store:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1674,7 +1674,7 @@
     <key>phrase</key>
     <string>🏮</string>
     <key>shortcut</key>
-    <string>:izakaya_lantern:</string>
+    <string>:izakaya-lantern:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1686,25 +1686,25 @@
     <key>phrase</key>
     <string>🏯</string>
     <key>shortcut</key>
-    <string>:japanese_castle:</string>
+    <string>:japanese-castle:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏰</string>
     <key>shortcut</key>
-    <string>:european_castle:</string>
+    <string>:european-castle:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏳</string>
     <key>shortcut</key>
-    <string>:waving_white_flag:</string>
+    <string>:waving-white-flag:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏴</string>
     <key>shortcut</key>
-    <string>:waving_black_flag:</string>
+    <string>:waving-black-flag:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1722,13 +1722,13 @@
     <key>phrase</key>
     <string>🏸</string>
     <key>shortcut</key>
-    <string>:badminton_racquet_and_shuttlecock:</string>
+    <string>:badminton-racquet-and-shuttlecock:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏹</string>
     <key>shortcut</key>
-    <string>:bow_and_arrow:</string>
+    <string>:bow-and-arrow:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1788,7 +1788,7 @@
     <key>phrase</key>
     <string>🐃</string>
     <key>shortcut</key>
-    <string>:water_buffalo:</string>
+    <string>:water-buffalo:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1968,7 +1968,7 @@
     <key>phrase</key>
     <string>🐠</string>
     <key>shortcut</key>
-    <string>:tropical_fish:</string>
+    <string>:tropical-fish:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -1986,19 +1986,19 @@
     <key>phrase</key>
     <string>🐣</string>
     <key>shortcut</key>
-    <string>:hatching_chick:</string>
+    <string>:hatching-chick:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🐤</string>
     <key>shortcut</key>
-    <string>:baby_chick:</string>
+    <string>:baby-chick:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🐥</string>
     <key>shortcut</key>
-    <string>:hatched_chick:</string>
+    <string>:hatched-chick:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2028,7 +2028,7 @@
     <key>phrase</key>
     <string>🐪</string>
     <key>shortcut</key>
-    <string>:dromedary_camel:</string>
+    <string>:dromedary-camel:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2082,7 +2082,7 @@
     <key>phrase</key>
     <string>🐲</string>
     <key>shortcut</key>
-    <string>:dragon_face:</string>
+    <string>:dragon-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2106,7 +2106,7 @@
     <key>phrase</key>
     <string>🐵</string>
     <key>shortcut</key>
-    <string>:monkey_face:</string>
+    <string>:monkey-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2148,13 +2148,13 @@
     <key>phrase</key>
     <string>🐼</string>
     <key>shortcut</key>
-    <string>:panda_face:</string>
+    <string>:panda-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🐽</string>
     <key>shortcut</key>
-    <string>:pig_nose:</string>
+    <string>:pig-nose:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2166,7 +2166,7 @@
     <key>phrase</key>
     <string>🐾</string>
     <key>shortcut</key>
-    <string>:paw_prints:</string>
+    <string>:paw-prints:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2214,25 +2214,25 @@
     <key>phrase</key>
     <string>👆</string>
     <key>shortcut</key>
-    <string>:point_up_2:</string>
+    <string>:point-up-2:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>👇</string>
     <key>shortcut</key>
-    <string>:point_down:</string>
+    <string>:point-down:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>👈</string>
     <key>shortcut</key>
-    <string>:point_left:</string>
+    <string>:point-left:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>👉</string>
     <key>shortcut</key>
-    <string>:point_right:</string>
+    <string>:point-right:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2262,7 +2262,7 @@
     <key>phrase</key>
     <string>👌</string>
     <key>shortcut</key>
-    <string>:ok_hand:</string>
+    <string>:ok-hand:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2298,7 +2298,7 @@
     <key>phrase</key>
     <string>👐</string>
     <key>shortcut</key>
-    <string>:open_hands:</string>
+    <string>:open-hands:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2310,7 +2310,7 @@
     <key>phrase</key>
     <string>👒</string>
     <key>shortcut</key>
-    <string>:womans_hat:</string>
+    <string>:womans-hat:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2364,7 +2364,7 @@
     <key>phrase</key>
     <string>👚</string>
     <key>shortcut</key>
-    <string>:womans_clothes:</string>
+    <string>:womans-clothes:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2388,7 +2388,7 @@
     <key>phrase</key>
     <string>👞</string>
     <key>shortcut</key>
-    <string>:mans_shoe:</string>
+    <string>:mans-shoe:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2400,13 +2400,13 @@
     <key>phrase</key>
     <string>👟</string>
     <key>shortcut</key>
-    <string>:athletic_shoe:</string>
+    <string>:athletic-shoe:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>👠</string>
     <key>shortcut</key>
-    <string>:high_heel:</string>
+    <string>:high-heel:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2430,13 +2430,13 @@
     <key>phrase</key>
     <string>👤</string>
     <key>shortcut</key>
-    <string>:bust_in_silhouette:</string>
+    <string>:bust-in-silhouette:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>👥</string>
     <key>shortcut</key>
-    <string>:busts_in_silhouette:</string>
+    <string>:busts-in-silhouette:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2670,19 +2670,19 @@
     <key>phrase</key>
     <string>👫</string>
     <key>shortcut</key>
-    <string>:man_and_woman_holding_hands:</string>
+    <string>:man-and-woman-holding-hands:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>👬</string>
     <key>shortcut</key>
-    <string>:two_men_holding_hands:</string>
+    <string>:two-men-holding-hands:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>👭</string>
     <key>shortcut</key>
-    <string>:two_women_holding_hands:</string>
+    <string>:two-women-holding-hands:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2694,13 +2694,13 @@
     <key>phrase</key>
     <string>👮‍♀️</string>
     <key>shortcut</key>
-    <string>:female_cop:</string>
+    <string>:female-cop:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>👮</string>
     <key>shortcut</key>
-    <string>:male_cop:</string>
+    <string>:male-cop:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2712,55 +2712,55 @@
     <key>phrase</key>
     <string>👯</string>
     <key>shortcut</key>
-    <string>:female_dancers:</string>
+    <string>:female-dancers:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>👯‍♂️</string>
     <key>shortcut</key>
-    <string>:male_dancers:</string>
+    <string>:male-dancers:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>👰</string>
     <key>shortcut</key>
-    <string>:bride_with_veil:</string>
+    <string>:bride-with-veil:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>👱</string>
     <key>shortcut</key>
-    <string>:person_with_blond_hair:</string>
+    <string>:person-with-blond-hair:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>👲</string>
     <key>shortcut</key>
-    <string>:man_with_gua_pi_mao:</string>
+    <string>:man-with-gua-pi-mao:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>👳</string>
     <key>shortcut</key>
-    <string>:man_with_turban:</string>
+    <string>:man-with-turban:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>👳‍♀️</string>
     <key>shortcut</key>
-    <string>:woman_with_turban:</string>
+    <string>:woman-with-turban:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>👴</string>
     <key>shortcut</key>
-    <string>:older_man:</string>
+    <string>:older-man:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>👵</string>
     <key>shortcut</key>
-    <string>:older_woman:</string>
+    <string>:older-woman:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2772,19 +2772,19 @@
     <key>phrase</key>
     <string>👷</string>
     <key>shortcut</key>
-    <string>:construction_worker:</string>
+    <string>:construction-worker:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>👷‍♀️</string>
     <key>shortcut</key>
-    <string>:female_construction_worker:</string>
+    <string>:female-construction-worker:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>👷</string>
     <key>shortcut</key>
-    <string>:male_construction_worker:</string>
+    <string>:male-construction-worker:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2796,13 +2796,13 @@
     <key>phrase</key>
     <string>👹</string>
     <key>shortcut</key>
-    <string>:japanese_ogre:</string>
+    <string>:japanese-ogre:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>👺</string>
     <key>shortcut</key>
-    <string>:japanese_goblin:</string>
+    <string>:japanese-goblin:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2826,7 +2826,7 @@
     <key>phrase</key>
     <string>👾</string>
     <key>shortcut</key>
-    <string>:space_invader:</string>
+    <string>:space-invader:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2844,19 +2844,19 @@
     <key>phrase</key>
     <string>💁</string>
     <key>shortcut</key>
-    <string>:information_desk_person:</string>
+    <string>:information-desk-person:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>💁‍♂️</string>
     <key>shortcut</key>
-    <string>:information_desk_man:</string>
+    <string>:information-desk-man:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>💁</string>
     <key>shortcut</key>
-    <string>:information_desk_woman:</string>
+    <string>:information-desk-woman:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2886,7 +2886,7 @@
     <key>phrase</key>
     <string>💅</string>
     <key>shortcut</key>
-    <string>:nail_care:</string>
+    <string>:nail-care:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2898,13 +2898,13 @@
     <key>phrase</key>
     <string>💆‍♂️</string>
     <key>shortcut</key>
-    <string>:man_massage:</string>
+    <string>:man-massage:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>💆</string>
     <key>shortcut</key>
-    <string>:woman_massage:</string>
+    <string>:woman-massage:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2916,13 +2916,13 @@
     <key>phrase</key>
     <string>💇‍♂️</string>
     <key>shortcut</key>
-    <string>:man_haircut:</string>
+    <string>:man-haircut:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>💇</string>
     <key>shortcut</key>
-    <string>:woman_haircut:</string>
+    <string>:woman-haircut:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2952,7 +2952,7 @@
     <key>phrase</key>
     <string>💌</string>
     <key>shortcut</key>
-    <string>:love_letter:</string>
+    <string>:love-letter:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -2982,7 +2982,7 @@
     <key>phrase</key>
     <string>💑</string>
     <key>shortcut</key>
-    <string>:couple_with_heart:</string>
+    <string>:couple-with-heart:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3000,19 +3000,19 @@
     <key>phrase</key>
     <string>💔</string>
     <key>shortcut</key>
-    <string>:broken_heart:</string>
+    <string>:broken-heart:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>💕</string>
     <key>shortcut</key>
-    <string>:two_hearts:</string>
+    <string>:two-hearts:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>💖</string>
     <key>shortcut</key>
-    <string>:sparkling_heart:</string>
+    <string>:sparkling-heart:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3030,49 +3030,49 @@
     <key>phrase</key>
     <string>💙</string>
     <key>shortcut</key>
-    <string>:blue_heart:</string>
+    <string>:blue-heart:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>💚</string>
     <key>shortcut</key>
-    <string>:green_heart:</string>
+    <string>:green-heart:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>💛</string>
     <key>shortcut</key>
-    <string>:yellow_heart:</string>
+    <string>:yellow-heart:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>💜</string>
     <key>shortcut</key>
-    <string>:purple_heart:</string>
+    <string>:purple-heart:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>💝</string>
     <key>shortcut</key>
-    <string>:gift_heart:</string>
+    <string>:gift-heart:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>💞</string>
     <key>shortcut</key>
-    <string>:revolving_hearts:</string>
+    <string>:revolving-hearts:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>💟</string>
     <key>shortcut</key>
-    <string>:heart_decoration:</string>
+    <string>:heart-decoration:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>💠</string>
     <key>shortcut</key>
-    <string>:diamond_shape_with_a_dot_inside:</string>
+    <string>:diamond-shape-with-a-dot-inside:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3126,7 +3126,7 @@
     <key>phrase</key>
     <string>💦</string>
     <key>shortcut</key>
-    <string>:sweat_drops:</string>
+    <string>:sweat-drops:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3174,19 +3174,19 @@
     <key>phrase</key>
     <string>💬</string>
     <key>shortcut</key>
-    <string>:speech_balloon:</string>
+    <string>:speech-balloon:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>💭</string>
     <key>shortcut</key>
-    <string>:thought_balloon:</string>
+    <string>:thought-balloon:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>💮</string>
     <key>shortcut</key>
-    <string>:white_flower:</string>
+    <string>:white-flower:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3204,19 +3204,19 @@
     <key>phrase</key>
     <string>💱</string>
     <key>shortcut</key>
-    <string>:currency_exchange:</string>
+    <string>:currency-exchange:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>💲</string>
     <key>shortcut</key>
-    <string>:heavy_dollar_sign:</string>
+    <string>:heavy-dollar-sign:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>💳</string>
     <key>shortcut</key>
-    <string>:credit_card:</string>
+    <string>:credit-card:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3246,7 +3246,7 @@
     <key>phrase</key>
     <string>💸</string>
     <key>shortcut</key>
-    <string>:money_with_wings:</string>
+    <string>:money-with-wings:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3282,7 +3282,7 @@
     <key>phrase</key>
     <string>💾</string>
     <key>shortcut</key>
-    <string>:floppy_disk:</string>
+    <string>:floppy-disk:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3300,25 +3300,25 @@
     <key>phrase</key>
     <string>📁</string>
     <key>shortcut</key>
-    <string>:file_folder:</string>
+    <string>:file-folder:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>📂</string>
     <key>shortcut</key>
-    <string>:open_file_folder:</string>
+    <string>:open-file-folder:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>📃</string>
     <key>shortcut</key>
-    <string>:page_with_curl:</string>
+    <string>:page-with-curl:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>📄</string>
     <key>shortcut</key>
-    <string>:page_facing_up:</string>
+    <string>:page-facing-up:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3336,25 +3336,25 @@
     <key>phrase</key>
     <string>📇</string>
     <key>shortcut</key>
-    <string>:card_index:</string>
+    <string>:card-index:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>📈</string>
     <key>shortcut</key>
-    <string>:chart_with_upwards_trend:</string>
+    <string>:chart-with-upwards-trend:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>📉</string>
     <key>shortcut</key>
-    <string>:chart_with_downwards_trend:</string>
+    <string>:chart-with-downwards-trend:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>📊</string>
     <key>shortcut</key>
-    <string>:bar_chart:</string>
+    <string>:bar-chart:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3372,7 +3372,7 @@
     <key>phrase</key>
     <string>📍</string>
     <key>shortcut</key>
-    <string>:round_pushpin:</string>
+    <string>:round-pushpin:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3384,19 +3384,19 @@
     <key>phrase</key>
     <string>📏</string>
     <key>shortcut</key>
-    <string>:straight_ruler:</string>
+    <string>:straight-ruler:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>📐</string>
     <key>shortcut</key>
-    <string>:triangular_ruler:</string>
+    <string>:triangular-ruler:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>📑</string>
     <key>shortcut</key>
-    <string>:bookmark_tabs:</string>
+    <string>:bookmark-tabs:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3414,13 +3414,13 @@
     <key>phrase</key>
     <string>📔</string>
     <key>shortcut</key>
-    <string>:notebook_with_decorative_cover:</string>
+    <string>:notebook-with-decorative-cover:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>📕</string>
     <key>shortcut</key>
-    <string>:closed_book:</string>
+    <string>:closed-book:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3432,25 +3432,25 @@
     <key>phrase</key>
     <string>📖</string>
     <key>shortcut</key>
-    <string>:open_book:</string>
+    <string>:open-book:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>📗</string>
     <key>shortcut</key>
-    <string>:green_book:</string>
+    <string>:green-book:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>📘</string>
     <key>shortcut</key>
-    <string>:blue_book:</string>
+    <string>:blue-book:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>📙</string>
     <key>shortcut</key>
-    <string>:orange_book:</string>
+    <string>:orange-book:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3462,7 +3462,7 @@
     <key>phrase</key>
     <string>📛</string>
     <key>shortcut</key>
-    <string>:name_badge:</string>
+    <string>:name-badge:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3486,7 +3486,7 @@
     <key>phrase</key>
     <string>📞</string>
     <key>shortcut</key>
-    <string>:telephone_receiver:</string>
+    <string>:telephone-receiver:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3528,13 +3528,13 @@
     <key>phrase</key>
     <string>📤</string>
     <key>shortcut</key>
-    <string>:outbox_tray:</string>
+    <string>:outbox-tray:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>📥</string>
     <key>shortcut</key>
-    <string>:inbox_tray:</string>
+    <string>:inbox-tray:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3552,19 +3552,19 @@
     <key>phrase</key>
     <string>📨</string>
     <key>shortcut</key>
-    <string>:incoming_envelope:</string>
+    <string>:incoming-envelope:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>📩</string>
     <key>shortcut</key>
-    <string>:envelope_with_arrow:</string>
+    <string>:envelope-with-arrow:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>📪</string>
     <key>shortcut</key>
-    <string>:mailbox_closed:</string>
+    <string>:mailbox-closed:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3576,13 +3576,13 @@
     <key>phrase</key>
     <string>📬</string>
     <key>shortcut</key>
-    <string>:mailbox_with_mail:</string>
+    <string>:mailbox-with-mail:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>📭</string>
     <key>shortcut</key>
-    <string>:mailbox_with_no_mail:</string>
+    <string>:mailbox-with-no-mail:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3594,7 +3594,7 @@
     <key>phrase</key>
     <string>📯</string>
     <key>shortcut</key>
-    <string>:postal_horn:</string>
+    <string>:postal-horn:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3618,25 +3618,25 @@
     <key>phrase</key>
     <string>📳</string>
     <key>shortcut</key>
-    <string>:vibration_mode:</string>
+    <string>:vibration-mode:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>📴</string>
     <key>shortcut</key>
-    <string>:mobile_phone_off:</string>
+    <string>:mobile-phone-off:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>📵</string>
     <key>shortcut</key>
-    <string>:no_mobile_phones:</string>
+    <string>:no-mobile-phones:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>📶</string>
     <key>shortcut</key>
-    <string>:signal_strength:</string>
+    <string>:signal-strength:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3648,13 +3648,13 @@
     <key>phrase</key>
     <string>📸</string>
     <key>shortcut</key>
-    <string>:camera_with_flash:</string>
+    <string>:camera-with-flash:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>📹</string>
     <key>shortcut</key>
-    <string>:video_camera:</string>
+    <string>:video-camera:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3678,19 +3678,19 @@
     <key>phrase</key>
     <string>📽</string>
     <key>shortcut</key>
-    <string>:film_projector:</string>
+    <string>:film-projector:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>📿</string>
     <key>shortcut</key>
-    <string>:prayer_beads:</string>
+    <string>:prayer-beads:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🔀</string>
     <key>shortcut</key>
-    <string>:twisted_rightwards_arrows:</string>
+    <string>:twisted-rightwards-arrows:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3702,31 +3702,31 @@
     <key>phrase</key>
     <string>🔂</string>
     <key>shortcut</key>
-    <string>:repeat_one:</string>
+    <string>:repeat-one:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🔃</string>
     <key>shortcut</key>
-    <string>:arrows_clockwise:</string>
+    <string>:arrows-clockwise:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🔄</string>
     <key>shortcut</key>
-    <string>:arrows_counterclockwise:</string>
+    <string>:arrows-counterclockwise:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🔅</string>
     <key>shortcut</key>
-    <string>:low_brightness:</string>
+    <string>:low-brightness:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🔆</string>
     <key>shortcut</key>
-    <string>:high_brightness:</string>
+    <string>:high-brightness:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3750,7 +3750,7 @@
     <key>phrase</key>
     <string>🔊</string>
     <key>shortcut</key>
-    <string>:loud_sound:</string>
+    <string>:loud-sound:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3762,7 +3762,7 @@
     <key>phrase</key>
     <string>🔌</string>
     <key>shortcut</key>
-    <string>:electric_plug:</string>
+    <string>:electric-plug:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3774,19 +3774,19 @@
     <key>phrase</key>
     <string>🔎</string>
     <key>shortcut</key>
-    <string>:mag_right:</string>
+    <string>:mag-right:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🔏</string>
     <key>shortcut</key>
-    <string>:lock_with_ink_pen:</string>
+    <string>:lock-with-ink-pen:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🔐</string>
     <key>shortcut</key>
-    <string>:closed_lock_with_key:</string>
+    <string>:closed-lock-with-key:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3816,7 +3816,7 @@
     <key>phrase</key>
     <string>🔕</string>
     <key>shortcut</key>
-    <string>:no_bell:</string>
+    <string>:no-bell:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3834,7 +3834,7 @@
     <key>phrase</key>
     <string>🔘</string>
     <key>shortcut</key>
-    <string>:radio_button:</string>
+    <string>:radio-button:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3876,13 +3876,13 @@
     <key>phrase</key>
     <string>🔟</string>
     <key>shortcut</key>
-    <string>:keycap_ten:</string>
+    <string>:keycap-ten:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🔠</string>
     <key>shortcut</key>
-    <string>:capital_abcd:</string>
+    <string>:capital-abcd:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3936,7 +3936,7 @@
     <key>phrase</key>
     <string>🔩</string>
     <key>shortcut</key>
-    <string>:nut_and_bolt:</string>
+    <string>:nut-and-bolt:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3972,13 +3972,13 @@
     <key>phrase</key>
     <string>🔮</string>
     <key>shortcut</key>
-    <string>:crystal_ball:</string>
+    <string>:crystal-ball:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🔯</string>
     <key>shortcut</key>
-    <string>:six_pointed_star:</string>
+    <string>:six-pointed-star:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -3996,85 +3996,85 @@
     <key>phrase</key>
     <string>🔲</string>
     <key>shortcut</key>
-    <string>:black_square_button:</string>
+    <string>:black-square-button:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🔳</string>
     <key>shortcut</key>
-    <string>:white_square_button:</string>
+    <string>:white-square-button:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🔴</string>
     <key>shortcut</key>
-    <string>:red_circle:</string>
+    <string>:red-circle:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🔵</string>
     <key>shortcut</key>
-    <string>:large_blue_circle:</string>
+    <string>:large-blue-circle:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🔶</string>
     <key>shortcut</key>
-    <string>:large_orange_diamond:</string>
+    <string>:large-orange-diamond:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🔷</string>
     <key>shortcut</key>
-    <string>:large_blue_diamond:</string>
+    <string>:large-blue-diamond:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🔸</string>
     <key>shortcut</key>
-    <string>:small_orange_diamond:</string>
+    <string>:small-orange-diamond:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🔹</string>
     <key>shortcut</key>
-    <string>:small_blue_diamond:</string>
+    <string>:small-blue-diamond:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🔺</string>
     <key>shortcut</key>
-    <string>:small_red_triangle:</string>
+    <string>:small-red-triangle:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🔻</string>
     <key>shortcut</key>
-    <string>:small_red_triangle_down:</string>
+    <string>:small-red-triangle-down:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🔼</string>
     <key>shortcut</key>
-    <string>:arrow_up_small:</string>
+    <string>:arrow-up-small:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🔽</string>
     <key>shortcut</key>
-    <string>:arrow_down_small:</string>
+    <string>:arrow-down-small:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🕉</string>
     <key>shortcut</key>
-    <string>:om_symbol:</string>
+    <string>:om-symbol:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🕊</string>
     <key>shortcut</key>
-    <string>:dove_of_peace:</string>
+    <string>:dove-of-peace:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4098,7 +4098,7 @@
     <key>phrase</key>
     <string>🕎</string>
     <key>shortcut</key>
-    <string>:menorah_with_nine_branches:</string>
+    <string>:menorah-with-nine-branches:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4254,7 +4254,7 @@
     <key>phrase</key>
     <string>🕰</string>
     <key>shortcut</key>
-    <string>:mantelpiece_clock:</string>
+    <string>:mantelpiece-clock:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4266,31 +4266,31 @@
     <key>phrase</key>
     <string>🕴</string>
     <key>shortcut</key>
-    <string>:man_in_business_suit_levitating:</string>
+    <string>:man-in-business-suit-levitating:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🕵</string>
     <key>shortcut</key>
-    <string>:sleuth_or_spy:</string>
+    <string>:sleuth-or-spy:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🕵️‍♀️</string>
     <key>shortcut</key>
-    <string>:female_sleuth_or_spy:</string>
+    <string>:female-sleuth-or-spy:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🕵</string>
     <key>shortcut</key>
-    <string>:male_sleuth_or_spy:</string>
+    <string>:male-sleuth-or-spy:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🕶</string>
     <key>shortcut</key>
-    <string>:dark_sunglasses:</string>
+    <string>:dark-sunglasses:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4302,7 +4302,7 @@
     <key>phrase</key>
     <string>🕸</string>
     <key>shortcut</key>
-    <string>:spider_web:</string>
+    <string>:spider-web:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4314,49 +4314,49 @@
     <key>phrase</key>
     <string>🖇</string>
     <key>shortcut</key>
-    <string>:linked_paperclips:</string>
+    <string>:linked-paperclips:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🖊</string>
     <key>shortcut</key>
-    <string>:lower_left_ballpoint_pen:</string>
+    <string>:lower-left-ballpoint-pen:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🖋</string>
     <key>shortcut</key>
-    <string>:lower_left_fountain_pen:</string>
+    <string>:lower-left-fountain-pen:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🖌</string>
     <key>shortcut</key>
-    <string>:lower_left_paintbrush:</string>
+    <string>:lower-left-paintbrush:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🖍</string>
     <key>shortcut</key>
-    <string>:lower_left_crayon:</string>
+    <string>:lower-left-crayon:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🖐</string>
     <key>shortcut</key>
-    <string>:raised_hand_with_fingers_splayed:</string>
+    <string>:raised-hand-with-fingers-splayed:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🖕</string>
     <key>shortcut</key>
-    <string>:middle_finger:</string>
+    <string>:middle-finger:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🖕</string>
     <key>shortcut</key>
-    <string>:reversed_hand_with_middle_finger_extended:</string>
+    <string>:reversed-hand-with-middle-finger-extended:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4374,7 +4374,7 @@
     <key>phrase</key>
     <string>🖥</string>
     <key>shortcut</key>
-    <string>:desktop_computer:</string>
+    <string>:desktop-computer:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4386,7 +4386,7 @@
     <key>phrase</key>
     <string>🖱</string>
     <key>shortcut</key>
-    <string>:three_button_mouse:</string>
+    <string>:three-button-mouse:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4398,25 +4398,25 @@
     <key>phrase</key>
     <string>🖼</string>
     <key>shortcut</key>
-    <string>:frame_with_picture:</string>
+    <string>:frame-with-picture:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🗂</string>
     <key>shortcut</key>
-    <string>:card_index_dividers:</string>
+    <string>:card-index-dividers:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🗃</string>
     <key>shortcut</key>
-    <string>:card_file_box:</string>
+    <string>:card-file-box:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🗄</string>
     <key>shortcut</key>
-    <string>:file_cabinet:</string>
+    <string>:file-cabinet:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4428,13 +4428,13 @@
     <key>phrase</key>
     <string>🗒</string>
     <key>shortcut</key>
-    <string>:spiral_note_pad:</string>
+    <string>:spiral-note-pad:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🗓</string>
     <key>shortcut</key>
-    <string>:spiral_calendar_pad:</string>
+    <string>:spiral-calendar-pad:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4446,67 +4446,67 @@
     <key>phrase</key>
     <string>🗝</string>
     <key>shortcut</key>
-    <string>:old_key:</string>
+    <string>:old-key:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🗞</string>
     <key>shortcut</key>
-    <string>:rolled_up_newspaper:</string>
+    <string>:rolled-up-newspaper:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🗡</string>
     <key>shortcut</key>
-    <string>:dagger_knife:</string>
+    <string>:dagger-knife:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🗣</string>
     <key>shortcut</key>
-    <string>:speaking_head_in_silhouette:</string>
+    <string>:speaking-head-in-silhouette:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🗨</string>
     <key>shortcut</key>
-    <string>:left_speech_bubble:</string>
+    <string>:left-speech-bubble:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🗯</string>
     <key>shortcut</key>
-    <string>:right_anger_bubble:</string>
+    <string>:right-anger-bubble:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🗳</string>
     <key>shortcut</key>
-    <string>:ballot_box_with_ballot:</string>
+    <string>:ballot-box-with-ballot:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🗺</string>
     <key>shortcut</key>
-    <string>:world_map:</string>
+    <string>:world-map:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🗻</string>
     <key>shortcut</key>
-    <string>:mount_fuji:</string>
+    <string>:mount-fuji:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🗼</string>
     <key>shortcut</key>
-    <string>:tokyo_tower:</string>
+    <string>:tokyo-tower:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🗽</string>
     <key>shortcut</key>
-    <string>:statue_of_liberty:</string>
+    <string>:statue-of-liberty:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4554,7 +4554,7 @@
     <key>phrase</key>
     <string>😅</string>
     <key>shortcut</key>
-    <string>:sweat_smile:</string>
+    <string>:sweat-smile:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4578,7 +4578,7 @@
     <key>phrase</key>
     <string>😈</string>
     <key>shortcut</key>
-    <string>:smiling_imp:</string>
+    <string>:smiling-imp:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4608,7 +4608,7 @@
     <key>phrase</key>
     <string>😍</string>
     <key>shortcut</key>
-    <string>:heart_eyes:</string>
+    <string>:heart-eyes:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4626,7 +4626,7 @@
     <key>phrase</key>
     <string>😐</string>
     <key>shortcut</key>
-    <string>:neutral_face:</string>
+    <string>:neutral-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4674,37 +4674,37 @@
     <key>phrase</key>
     <string>😘</string>
     <key>shortcut</key>
-    <string>:kissing_heart:</string>
+    <string>:kissing-heart:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>😙</string>
     <key>shortcut</key>
-    <string>:kissing_smiling_eyes:</string>
+    <string>:kissing-smiling-eyes:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>😚</string>
     <key>shortcut</key>
-    <string>:kissing_closed_eyes:</string>
+    <string>:kissing-closed-eyes:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>😛</string>
     <key>shortcut</key>
-    <string>:stuck_out_tongue:</string>
+    <string>:stuck-out-tongue:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>😜</string>
     <key>shortcut</key>
-    <string>:stuck_out_tongue_winking_eye:</string>
+    <string>:stuck-out-tongue-winking-eye:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>😝</string>
     <key>shortcut</key>
-    <string>:stuck_out_tongue_closed_eyes:</string>
+    <string>:stuck-out-tongue-closed-eyes:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4752,7 +4752,7 @@
     <key>phrase</key>
     <string>😥</string>
     <key>shortcut</key>
-    <string>:disappointed_relieved:</string>
+    <string>:disappointed-relieved:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4788,7 +4788,7 @@
     <key>phrase</key>
     <string>😫</string>
     <key>shortcut</key>
-    <string>:tired_face:</string>
+    <string>:tired-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4806,7 +4806,7 @@
     <key>phrase</key>
     <string>😮</string>
     <key>shortcut</key>
-    <string>:open_mouth:</string>
+    <string>:open-mouth:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4818,7 +4818,7 @@
     <key>phrase</key>
     <string>😰</string>
     <key>shortcut</key>
-    <string>:cold_sweat:</string>
+    <string>:cold-sweat:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4848,13 +4848,13 @@
     <key>phrase</key>
     <string>😵</string>
     <key>shortcut</key>
-    <string>:dizzy_face:</string>
+    <string>:dizzy-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>😶</string>
     <key>shortcut</key>
-    <string>:no_mouth:</string>
+    <string>:no-mouth:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4866,109 +4866,109 @@
     <key>phrase</key>
     <string>😸</string>
     <key>shortcut</key>
-    <string>:smile_cat:</string>
+    <string>:smile-cat:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>😹</string>
     <key>shortcut</key>
-    <string>:joy_cat:</string>
+    <string>:joy-cat:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>😺</string>
     <key>shortcut</key>
-    <string>:smiley_cat:</string>
+    <string>:smiley-cat:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>😻</string>
     <key>shortcut</key>
-    <string>:heart_eyes_cat:</string>
+    <string>:heart-eyes-cat:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>😼</string>
     <key>shortcut</key>
-    <string>:smirk_cat:</string>
+    <string>:smirk-cat:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>😽</string>
     <key>shortcut</key>
-    <string>:kissing_cat:</string>
+    <string>:kissing-cat:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>😾</string>
     <key>shortcut</key>
-    <string>:pouting_cat:</string>
+    <string>:pouting-cat:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>😿</string>
     <key>shortcut</key>
-    <string>:crying_cat_face:</string>
+    <string>:crying-cat-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🙀</string>
     <key>shortcut</key>
-    <string>:scream_cat:</string>
+    <string>:scream-cat:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🙁</string>
     <key>shortcut</key>
-    <string>:slightly_frowning_face:</string>
+    <string>:slightly-frowning-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🙂</string>
     <key>shortcut</key>
-    <string>:simple_smile:</string>
+    <string>:simple-smile:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🙂</string>
     <key>shortcut</key>
-    <string>:slightly_smiling_face:</string>
+    <string>:slightly-smiling-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🙃</string>
     <key>shortcut</key>
-    <string>:upside_down_face:</string>
+    <string>:upside-down-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🙄</string>
     <key>shortcut</key>
-    <string>:face_with_rolling_eyes:</string>
+    <string>:face-with-rolling-eyes:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🙅</string>
     <key>shortcut</key>
-    <string>:no_good:</string>
+    <string>:no-good:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🙅‍♂️</string>
     <key>shortcut</key>
-    <string>:no_good_man:</string>
+    <string>:no-good-man:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🙆‍♂️</string>
     <key>shortcut</key>
-    <string>:ok_man:</string>
+    <string>:ok-man:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🙆</string>
     <key>shortcut</key>
-    <string>:ok_woman:</string>
+    <string>:ok-woman:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -4980,91 +4980,91 @@
     <key>phrase</key>
     <string>🙇</string>
     <key>shortcut</key>
-    <string>:bow_man:</string>
+    <string>:bow-man:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🙇‍♀️</string>
     <key>shortcut</key>
-    <string>:bow_woman:</string>
+    <string>:bow-woman:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🙈</string>
     <key>shortcut</key>
-    <string>:see_no_evil:</string>
+    <string>:see-no-evil:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🙉</string>
     <key>shortcut</key>
-    <string>:hear_no_evil:</string>
+    <string>:hear-no-evil:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🙊</string>
     <key>shortcut</key>
-    <string>:speak_no_evil:</string>
+    <string>:speak-no-evil:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🙋</string>
     <key>shortcut</key>
-    <string>:raising_hand:</string>
+    <string>:raising-hand:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🙋‍♂️</string>
     <key>shortcut</key>
-    <string>:man_raising_hand:</string>
+    <string>:man-raising-hand:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🙋</string>
     <key>shortcut</key>
-    <string>:woman_raising_hand:</string>
+    <string>:woman-raising-hand:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🙌</string>
     <key>shortcut</key>
-    <string>:raised_hands:</string>
+    <string>:raised-hands:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🙍</string>
     <key>shortcut</key>
-    <string>:person_frowning:</string>
+    <string>:person-frowning:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🙍‍♂️</string>
     <key>shortcut</key>
-    <string>:man_frowning:</string>
+    <string>:man-frowning:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🙍</string>
     <key>shortcut</key>
-    <string>:woman_frowning:</string>
+    <string>:woman-frowning:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🙎</string>
     <key>shortcut</key>
-    <string>:person_with_pouting_face:</string>
+    <string>:person-with-pouting-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🙎‍♂️</string>
     <key>shortcut</key>
-    <string>:man_with_pouting_face:</string>
+    <string>:man-with-pouting-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🙎</string>
     <key>shortcut</key>
-    <string>:woman_with_pouting_face:</string>
+    <string>:woman-with-pouting-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5076,13 +5076,13 @@
     <key>phrase</key>
     <string>🙎‍♂️</string>
     <key>shortcut</key>
-    <string>:man_pouting:</string>
+    <string>:man-pouting:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🙎</string>
     <key>shortcut</key>
-    <string>:woman_pouting:</string>
+    <string>:woman-pouting:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5106,25 +5106,25 @@
     <key>phrase</key>
     <string>🚂</string>
     <key>shortcut</key>
-    <string>:steam_locomotive:</string>
+    <string>:steam-locomotive:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🚃</string>
     <key>shortcut</key>
-    <string>:railway_car:</string>
+    <string>:railway-car:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🚄</string>
     <key>shortcut</key>
-    <string>:bullettrain_side:</string>
+    <string>:bullettrain-side:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🚅</string>
     <key>shortcut</key>
-    <string>:bullettrain_front:</string>
+    <string>:bullettrain-front:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5142,7 +5142,7 @@
     <key>phrase</key>
     <string>🚈</string>
     <key>shortcut</key>
-    <string>:light_rail:</string>
+    <string>:light-rail:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5172,7 +5172,7 @@
     <key>phrase</key>
     <string>🚍</string>
     <key>shortcut</key>
-    <string>:oncoming_bus:</string>
+    <string>:oncoming-bus:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5202,19 +5202,19 @@
     <key>phrase</key>
     <string>🚒</string>
     <key>shortcut</key>
-    <string>:fire_engine:</string>
+    <string>:fire-engine:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🚓</string>
     <key>shortcut</key>
-    <string>:police_car:</string>
+    <string>:police-car:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🚔</string>
     <key>shortcut</key>
-    <string>:oncoming_police_car:</string>
+    <string>:oncoming-police-car:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5226,7 +5226,7 @@
     <key>phrase</key>
     <string>🚖</string>
     <key>shortcut</key>
-    <string>:oncoming_taxi:</string>
+    <string>:oncoming-taxi:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5238,19 +5238,19 @@
     <key>phrase</key>
     <string>🚗</string>
     <key>shortcut</key>
-    <string>:red_car:</string>
+    <string>:red-car:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🚘</string>
     <key>shortcut</key>
-    <string>:oncoming_automobile:</string>
+    <string>:oncoming-automobile:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🚙</string>
     <key>shortcut</key>
-    <string>:blue_car:</string>
+    <string>:blue-car:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5262,7 +5262,7 @@
     <key>phrase</key>
     <string>🚛</string>
     <key>shortcut</key>
-    <string>:articulated_lorry:</string>
+    <string>:articulated-lorry:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5280,25 +5280,25 @@
     <key>phrase</key>
     <string>🚞</string>
     <key>shortcut</key>
-    <string>:mountain_railway:</string>
+    <string>:mountain-railway:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🚟</string>
     <key>shortcut</key>
-    <string>:suspension_railway:</string>
+    <string>:suspension-railway:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🚠</string>
     <key>shortcut</key>
-    <string>:mountain_cableway:</string>
+    <string>:mountain-cableway:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🚡</string>
     <key>shortcut</key>
-    <string>:aerial_tramway:</string>
+    <string>:aerial-tramway:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5316,13 +5316,13 @@
     <key>phrase</key>
     <string>🚣</string>
     <key>shortcut</key>
-    <string>:rowboat_man:</string>
+    <string>:rowboat-man:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🚣‍♀️</string>
     <key>shortcut</key>
-    <string>:rowboat_woman:</string>
+    <string>:rowboat-woman:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5334,13 +5334,13 @@
     <key>phrase</key>
     <string>🚥</string>
     <key>shortcut</key>
-    <string>:traffic_light:</string>
+    <string>:traffic-light:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🚦</string>
     <key>shortcut</key>
-    <string>:vertical_traffic_light:</string>
+    <string>:vertical-traffic-light:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5352,13 +5352,13 @@
     <key>phrase</key>
     <string>🚨</string>
     <key>shortcut</key>
-    <string>:rotating_light:</string>
+    <string>:rotating-light:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🚩</string>
     <key>shortcut</key>
-    <string>:triangular_flag_on_post:</string>
+    <string>:triangular-flag-on-post:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5370,7 +5370,7 @@
     <key>phrase</key>
     <string>🚫</string>
     <key>shortcut</key>
-    <string>:no_entry_sign:</string>
+    <string>:no-entry-sign:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5382,31 +5382,31 @@
     <key>phrase</key>
     <string>🚭</string>
     <key>shortcut</key>
-    <string>:no_smoking:</string>
+    <string>:no-smoking:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🚮</string>
     <key>shortcut</key>
-    <string>:put_litter_in_its_place:</string>
+    <string>:put-litter-in-its-place:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🚯</string>
     <key>shortcut</key>
-    <string>:do_not_litter:</string>
+    <string>:do-not-litter:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🚰</string>
     <key>shortcut</key>
-    <string>:potable_water:</string>
+    <string>:potable-water:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🚱</string>
     <key>shortcut</key>
-    <string>:non-potable_water:</string>
+    <string>:non-potable-water:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5418,7 +5418,7 @@
     <key>phrase</key>
     <string>🚳</string>
     <key>shortcut</key>
-    <string>:no_bicycles:</string>
+    <string>:no-bicycles:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5430,31 +5430,31 @@
     <key>phrase</key>
     <string>🚴‍♀️</string>
     <key>shortcut</key>
-    <string>:female_bicyclist:</string>
+    <string>:female-bicyclist:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🚴</string>
     <key>shortcut</key>
-    <string>:male_bicyclist:</string>
+    <string>:male-bicyclist:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🚵</string>
     <key>shortcut</key>
-    <string>:mountain_bicyclist:</string>
+    <string>:mountain-bicyclist:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🚵‍♀️</string>
     <key>shortcut</key>
-    <string>:female_mountain_bicyclist:</string>
+    <string>:female-mountain-bicyclist:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🚵</string>
     <key>shortcut</key>
-    <string>:male_mountain_bicyclist:</string>
+    <string>:male-mountain-bicyclist:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5466,19 +5466,19 @@
     <key>phrase</key>
     <string>🚶‍♀️</string>
     <key>shortcut</key>
-    <string>:walking_woman:</string>
+    <string>:walking-woman:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🚷</string>
     <key>shortcut</key>
-    <string>:no_pedestrians:</string>
+    <string>:no-pedestrians:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🚸</string>
     <key>shortcut</key>
-    <string>:children_crossing:</string>
+    <string>:children-crossing:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5502,7 +5502,7 @@
     <key>phrase</key>
     <string>🚼</string>
     <key>shortcut</key>
-    <string>:baby_symbol:</string>
+    <string>:baby-symbol:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5538,7 +5538,7 @@
     <key>phrase</key>
     <string>🛂</string>
     <key>shortcut</key>
-    <string>:passport_control:</string>
+    <string>:passport-control:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5550,37 +5550,37 @@
     <key>phrase</key>
     <string>🛄</string>
     <key>shortcut</key>
-    <string>:baggage_claim:</string>
+    <string>:baggage-claim:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🛅</string>
     <key>shortcut</key>
-    <string>:left_luggage:</string>
+    <string>:left-luggage:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🛋</string>
     <key>shortcut</key>
-    <string>:couch_and_lamp:</string>
+    <string>:couch-and-lamp:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🛌</string>
     <key>shortcut</key>
-    <string>:sleeping_accommodation:</string>
+    <string>:sleeping-accommodation:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🛍</string>
     <key>shortcut</key>
-    <string>:shopping_bags:</string>
+    <string>:shopping-bags:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🛎</string>
     <key>shortcut</key>
-    <string>:bellhop_bell:</string>
+    <string>:bellhop-bell:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5592,13 +5592,13 @@
     <key>phrase</key>
     <string>🛐</string>
     <key>shortcut</key>
-    <string>:place_of_worship:</string>
+    <string>:place-of-worship:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🛠</string>
     <key>shortcut</key>
-    <string>:hammer_and_wrench:</string>
+    <string>:hammer-and-wrench:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5610,7 +5610,7 @@
     <key>phrase</key>
     <string>🛢</string>
     <key>shortcut</key>
-    <string>:oil_drum:</string>
+    <string>:oil-drum:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5622,31 +5622,31 @@
     <key>phrase</key>
     <string>🛤</string>
     <key>shortcut</key>
-    <string>:railway_track:</string>
+    <string>:railway-track:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🛥</string>
     <key>shortcut</key>
-    <string>:motor_boat:</string>
+    <string>:motor-boat:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🛩</string>
     <key>shortcut</key>
-    <string>:small_airplane:</string>
+    <string>:small-airplane:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🛫</string>
     <key>shortcut</key>
-    <string>:airplane_departure:</string>
+    <string>:airplane-departure:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🛬</string>
     <key>shortcut</key>
-    <string>:airplane_arriving:</string>
+    <string>:airplane-arriving:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5658,37 +5658,37 @@
     <key>phrase</key>
     <string>🛳</string>
     <key>shortcut</key>
-    <string>:passenger_ship:</string>
+    <string>:passenger-ship:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤐</string>
     <key>shortcut</key>
-    <string>:zipper_mouth_face:</string>
+    <string>:zipper-mouth-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤑</string>
     <key>shortcut</key>
-    <string>:money_mouth_face:</string>
+    <string>:money-mouth-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤒</string>
     <key>shortcut</key>
-    <string>:face_with_thermometer:</string>
+    <string>:face-with-thermometer:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤓</string>
     <key>shortcut</key>
-    <string>:nerd_face:</string>
+    <string>:nerd-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤔</string>
     <key>shortcut</key>
-    <string>:thinking_face:</string>
+    <string>:thinking-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5700,31 +5700,31 @@
     <key>phrase</key>
     <string>🤕</string>
     <key>shortcut</key>
-    <string>:face_with_head_bandage:</string>
+    <string>:face-with-head-bandage:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤖</string>
     <key>shortcut</key>
-    <string>:robot_face:</string>
+    <string>:robot-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤗</string>
     <key>shortcut</key>
-    <string>:hugging_face:</string>
+    <string>:hugging-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤘</string>
     <key>shortcut</key>
-    <string>:sign_of_the_horns:</string>
+    <string>:sign-of-the-horns:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤘</string>
     <key>shortcut</key>
-    <string>:the_horns:</string>
+    <string>:the-horns:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5736,7 +5736,7 @@
     <key>phrase</key>
     <string>🦁</string>
     <key>shortcut</key>
-    <string>:lion_face:</string>
+    <string>:lion-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5754,13 +5754,13 @@
     <key>phrase</key>
     <string>🦄</string>
     <key>shortcut</key>
-    <string>:unicorn_face:</string>
+    <string>:unicorn-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🧀</string>
     <key>shortcut</key>
-    <string>:cheese_wedge:</string>
+    <string>:cheese-wedge:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5784,55 +5784,55 @@
     <key>phrase</key>
     <string>ℹ</string>
     <key>shortcut</key>
-    <string>:information_source:</string>
+    <string>:information-source:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>↔</string>
     <key>shortcut</key>
-    <string>:left_right_arrow:</string>
+    <string>:left-right-arrow:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>↕</string>
     <key>shortcut</key>
-    <string>:arrow_up_down:</string>
+    <string>:arrow-up-down:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>↖</string>
     <key>shortcut</key>
-    <string>:arrow_upper_left:</string>
+    <string>:arrow-upper-left:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>↗</string>
     <key>shortcut</key>
-    <string>:arrow_upper_right:</string>
+    <string>:arrow-upper-right:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>↘</string>
     <key>shortcut</key>
-    <string>:arrow_lower_right:</string>
+    <string>:arrow-lower-right:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>↙</string>
     <key>shortcut</key>
-    <string>:arrow_lower_left:</string>
+    <string>:arrow-lower-left:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>↩</string>
     <key>shortcut</key>
-    <string>:leftwards_arrow_with_hook:</string>
+    <string>:leftwards-arrow-with-hook:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>↪</string>
     <key>shortcut</key>
-    <string>:arrow_right_hook:</string>
+    <string>:arrow-right-hook:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5856,7 +5856,7 @@
     <key>phrase</key>
     <string>⏩</string>
     <key>shortcut</key>
-    <string>:fast_forward:</string>
+    <string>:fast-forward:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5868,37 +5868,37 @@
     <key>phrase</key>
     <string>⏫</string>
     <key>shortcut</key>
-    <string>:arrow_double_up:</string>
+    <string>:arrow-double-up:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>⏬</string>
     <key>shortcut</key>
-    <string>:arrow_double_down:</string>
+    <string>:arrow-double-down:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>⏭</string>
     <key>shortcut</key>
-    <string>:black_right_pointing_double_triangle_with_vertical_bar:</string>
+    <string>:black-right-pointing-double-triangle-with-vertical-bar:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>⏮</string>
     <key>shortcut</key>
-    <string>:black_left_pointing_double_triangle_with_vertical_bar:</string>
+    <string>:black-left-pointing-double-triangle-with-vertical-bar:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>⏯</string>
     <key>shortcut</key>
-    <string>:black_right_pointing_triangle_with_double_vertical_bar:</string>
+    <string>:black-right-pointing-triangle-with-double-vertical-bar:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>⏰</string>
     <key>shortcut</key>
-    <string>:alarm_clock:</string>
+    <string>:alarm-clock:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5910,31 +5910,31 @@
     <key>phrase</key>
     <string>⏲</string>
     <key>shortcut</key>
-    <string>:timer_clock:</string>
+    <string>:timer-clock:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>⏳</string>
     <key>shortcut</key>
-    <string>:hourglass_flowing_sand:</string>
+    <string>:hourglass-flowing-sand:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>⏸</string>
     <key>shortcut</key>
-    <string>:double_vertical_bar:</string>
+    <string>:double-vertical-bar:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>⏹</string>
     <key>shortcut</key>
-    <string>:black_square_for_stop:</string>
+    <string>:black-square-for-stop:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>⏺</string>
     <key>shortcut</key>
-    <string>:black_circle_for_record:</string>
+    <string>:black-circle-for-record:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -5946,49 +5946,49 @@
     <key>phrase</key>
     <string>▪</string>
     <key>shortcut</key>
-    <string>:black_small_square:</string>
+    <string>:black-small-square:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>▫</string>
     <key>shortcut</key>
-    <string>:white_small_square:</string>
+    <string>:white-small-square:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>▶</string>
     <key>shortcut</key>
-    <string>:arrow_forward:</string>
+    <string>:arrow-forward:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>◀</string>
     <key>shortcut</key>
-    <string>:arrow_backward:</string>
+    <string>:arrow-backward:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>◽</string>
     <key>shortcut</key>
-    <string>:white_medium_square:</string>
+    <string>:white-medium-square:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>◾</string>
     <key>shortcut</key>
-    <string>:black_medium_square:</string>
+    <string>:black-medium-square:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>◾</string>
     <key>shortcut</key>
-    <string>:white_medium_small_square:</string>
+    <string>:white-medium-small-square:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>◾</string>
     <key>shortcut</key>
-    <string>:black_medium_small_square:</string>
+    <string>:black-medium-small-square:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6018,7 +6018,7 @@
     <key>phrase</key>
     <string>☑</string>
     <key>shortcut</key>
-    <string>:ballot_box_with_check:</string>
+    <string>:ballot-box-with-check:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6042,61 +6042,61 @@
     <key>phrase</key>
     <string>☝</string>
     <key>shortcut</key>
-    <string>:point_up:</string>
+    <string>:point-up:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>☠</string>
     <key>shortcut</key>
-    <string>:skull_and_crossbones:</string>
+    <string>:skull-and-crossbones:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>☢</string>
     <key>shortcut</key>
-    <string>:radioactive_sign:</string>
+    <string>:radioactive-sign:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>☣</string>
     <key>shortcut</key>
-    <string>:biohazard_sign:</string>
+    <string>:biohazard-sign:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>☦</string>
     <key>shortcut</key>
-    <string>:orthodox_cross:</string>
+    <string>:orthodox-cross:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>☪</string>
     <key>shortcut</key>
-    <string>:star_and_crescent:</string>
+    <string>:star-and-crescent:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>☮</string>
     <key>shortcut</key>
-    <string>:peace_symbol:</string>
+    <string>:peace-symbol:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>☯</string>
     <key>shortcut</key>
-    <string>:yin_yang:</string>
+    <string>:yin-yang:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>☸</string>
     <key>shortcut</key>
-    <string>:wheel_of_dharma:</string>
+    <string>:wheel-of-dharma:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>☹</string>
     <key>shortcut</key>
-    <string>:white_frowning_face:</string>
+    <string>:white-frowning-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6222,7 +6222,7 @@
     <key>phrase</key>
     <string>⚒</string>
     <key>shortcut</key>
-    <string>:hammer_and_pick:</string>
+    <string>:hammer-and-pick:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6234,7 +6234,7 @@
     <key>phrase</key>
     <string>⚔</string>
     <key>shortcut</key>
-    <string>:crossed_swords:</string>
+    <string>:crossed-swords:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6258,13 +6258,13 @@
     <key>phrase</key>
     <string>⚛</string>
     <key>shortcut</key>
-    <string>:atom_symbol:</string>
+    <string>:atom-symbol:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>⚜</string>
     <key>shortcut</key>
-    <string>:fleur_de_lis:</string>
+    <string>:fleur-de-lis:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6282,13 +6282,13 @@
     <key>phrase</key>
     <string>⚪</string>
     <key>shortcut</key>
-    <string>:white_circle:</string>
+    <string>:white-circle:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>⚫</string>
     <key>shortcut</key>
-    <string>:black_circle:</string>
+    <string>:black-circle:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6300,7 +6300,7 @@
     <key>phrase</key>
     <string>⚱</string>
     <key>shortcut</key>
-    <string>:funeral_urn:</string>
+    <string>:funeral-urn:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6312,7 +6312,7 @@
     <key>phrase</key>
     <string>⚽</string>
     <key>shortcut</key>
-    <string>:eu_football:</string>
+    <string>:eu-football:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6330,13 +6330,13 @@
     <key>phrase</key>
     <string>⛅</string>
     <key>shortcut</key>
-    <string>:partly_sunny:</string>
+    <string>:partly-sunny:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>⛈</string>
     <key>shortcut</key>
-    <string>:thunder_cloud_and_rain:</string>
+    <string>:thunder-cloud-and-rain:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6354,7 +6354,7 @@
     <key>phrase</key>
     <string>⛑</string>
     <key>shortcut</key>
-    <string>:helmet_with_white_cross:</string>
+    <string>:helmet-with-white-cross:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6366,13 +6366,13 @@
     <key>phrase</key>
     <string>⛔</string>
     <key>shortcut</key>
-    <string>:no_entry:</string>
+    <string>:no-entry:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>⛩</string>
     <key>shortcut</key>
-    <string>:shinto_shrine:</string>
+    <string>:shinto-shrine:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6390,7 +6390,7 @@
     <key>phrase</key>
     <string>⛱</string>
     <key>shortcut</key>
-    <string>:umbrella_on_ground:</string>
+    <string>:umbrella-on-ground:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6432,19 +6432,19 @@
     <key>phrase</key>
     <string>⛸</string>
     <key>shortcut</key>
-    <string>:ice_skate:</string>
+    <string>:ice-skate:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>⛹</string>
     <key>shortcut</key>
-    <string>:person_with_ball:</string>
+    <string>:person-with-ball:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>⛹️‍♀️</string>
     <key>shortcut</key>
-    <string>:woman_with_ball:</string>
+    <string>:woman-with-ball:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6468,7 +6468,7 @@
     <key>phrase</key>
     <string>✅</string>
     <key>shortcut</key>
-    <string>:white_check_mark:</string>
+    <string>:white-check-mark:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6504,7 +6504,7 @@
     <key>phrase</key>
     <string>✋</string>
     <key>shortcut</key>
-    <string>:raised_hand:</string>
+    <string>:raised-hand:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6516,7 +6516,7 @@
     <key>phrase</key>
     <string>✍</string>
     <key>shortcut</key>
-    <string>:writing_hand:</string>
+    <string>:writing-hand:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6528,31 +6528,31 @@
     <key>phrase</key>
     <string>✒</string>
     <key>shortcut</key>
-    <string>:black_nib:</string>
+    <string>:black-nib:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>✔</string>
     <key>shortcut</key>
-    <string>:heavy_check_mark:</string>
+    <string>:heavy-check-mark:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>✖</string>
     <key>shortcut</key>
-    <string>:heavy_multiplication_x:</string>
+    <string>:heavy-multiplication-x:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>✝</string>
     <key>shortcut</key>
-    <string>:latin_cross:</string>
+    <string>:latin-cross:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>✡</string>
     <key>shortcut</key>
-    <string>:star_of_david:</string>
+    <string>:star-of-david:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6564,13 +6564,13 @@
     <key>phrase</key>
     <string>✳</string>
     <key>shortcut</key>
-    <string>:eight_spoked_asterisk:</string>
+    <string>:eight-spoked-asterisk:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>✴</string>
     <key>shortcut</key>
-    <string>:eight_pointed_black_star:</string>
+    <string>:eight-pointed-black-star:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6594,7 +6594,7 @@
     <key>phrase</key>
     <string>❎</string>
     <key>shortcut</key>
-    <string>:negative_squared_cross_mark:</string>
+    <string>:negative-squared-cross-mark:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6606,13 +6606,13 @@
     <key>phrase</key>
     <string>❔</string>
     <key>shortcut</key>
-    <string>:grey_question:</string>
+    <string>:grey-question:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>❕</string>
     <key>shortcut</key>
-    <string>:grey_exclamation:</string>
+    <string>:grey-exclamation:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6624,13 +6624,13 @@
     <key>phrase</key>
     <string>❗</string>
     <key>shortcut</key>
-    <string>:heavy_exclamation_mark:</string>
+    <string>:heavy-exclamation-mark:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>❣</string>
     <key>shortcut</key>
-    <string>:heavy_heart_exclamation_mark_ornament:</string>
+    <string>:heavy-heart-exclamation-mark-ornament:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6642,31 +6642,31 @@
     <key>phrase</key>
     <string>➕</string>
     <key>shortcut</key>
-    <string>:heavy_plus_sign:</string>
+    <string>:heavy-plus-sign:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>➖</string>
     <key>shortcut</key>
-    <string>:heavy_minus_sign:</string>
+    <string>:heavy-minus-sign:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>➗</string>
     <key>shortcut</key>
-    <string>:heavy_division_sign:</string>
+    <string>:heavy-division-sign:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>➡</string>
     <key>shortcut</key>
-    <string>:arrow_right:</string>
+    <string>:arrow-right:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>➰</string>
     <key>shortcut</key>
-    <string>:curly_loop:</string>
+    <string>:curly-loop:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6678,43 +6678,43 @@
     <key>phrase</key>
     <string>⬆</string>
     <key>shortcut</key>
-    <string>:arrow_heading_up:</string>
+    <string>:arrow-heading-up:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>⬇</string>
     <key>shortcut</key>
-    <string>:arrow_heading_down:</string>
+    <string>:arrow-heading-down:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>⬅</string>
     <key>shortcut</key>
-    <string>:arrow_left:</string>
+    <string>:arrow-left:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>⬆</string>
     <key>shortcut</key>
-    <string>:arrow_up:</string>
+    <string>:arrow-up:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>⬇</string>
     <key>shortcut</key>
-    <string>:arrow_down:</string>
+    <string>:arrow-down:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>⬛</string>
     <key>shortcut</key>
-    <string>:black_large_square:</string>
+    <string>:black-large-square:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>⬜</string>
     <key>shortcut</key>
-    <string>:white_large_square:</string>
+    <string>:white-large-square:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6732,13 +6732,13 @@
     <key>phrase</key>
     <string>〰</string>
     <key>shortcut</key>
-    <string>:wavy_dash:</string>
+    <string>:wavy-dash:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>〽</string>
     <key>shortcut</key>
-    <string>:part_alternation_mark:</string>
+    <string>:part-alternation-mark:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6786,13 +6786,13 @@
     <key>phrase</key>
     <string>♀</string>
     <key>shortcut</key>
-    <string>:female_sign:</string>
+    <string>:female-sign:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>♂</string>
     <key>shortcut</key>
-    <string>:male_sign:</string>
+    <string>:male-sign:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6802,7 +6802,7 @@
   </dict>
   <dict>
     <key>phrase</key>
-    <string>┬─┬ノ( º _ ºノ)</string>
+    <string>┬─┬ノ( º - ºノ)</string>
     <key>shortcut</key>
     <string>:unflip:</string>
   </dict>
@@ -6810,43 +6810,43 @@
     <key>phrase</key>
     <string>🤣</string>
     <key>shortcut</key>
-    <string>:rolling_on_the_floor_laughing:</string>
+    <string>:rolling-on-the-floor-laughing:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤤</string>
     <key>shortcut</key>
-    <string>:drooling_face:</string>
+    <string>:drooling-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤢</string>
     <key>shortcut</key>
-    <string>:nauseated_face:</string>
+    <string>:nauseated-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤧</string>
     <key>shortcut</key>
-    <string>:sneezing_face:</string>
+    <string>:sneezing-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤠</string>
     <key>shortcut</key>
-    <string>:face_with_cowboy_hat:</string>
+    <string>:face-with-cowboy-hat:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤡</string>
     <key>shortcut</key>
-    <string>:clown_face:</string>
+    <string>:clown-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤥</string>
     <key>shortcut</key>
-    <string>:lying_face:</string>
+    <string>:lying-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6858,25 +6858,25 @@
     <key>phrase</key>
     <string>🤵</string>
     <key>shortcut</key>
-    <string>:man_in_tuxedo:</string>
+    <string>:man-in-tuxedo:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤰</string>
     <key>shortcut</key>
-    <string>:pregnant_woman:</string>
+    <string>:pregnant-woman:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤶</string>
     <key>shortcut</key>
-    <string>:mother_christmas:</string>
+    <string>:mother-christmas:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤦</string>
     <key>shortcut</key>
-    <string>:face_palm:</string>
+    <string>:face-palm:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6888,7 +6888,7 @@
     <key>phrase</key>
     <string>🕺</string>
     <key>shortcut</key>
-    <string>:man_dancing:</string>
+    <string>:man-dancing:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6900,7 +6900,7 @@
     <key>phrase</key>
     <string>🤸</string>
     <key>shortcut</key>
-    <string>:person_doing_cartwheel:</string>
+    <string>:person-doing-cartwheel:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6912,7 +6912,7 @@
     <key>phrase</key>
     <string>🤽</string>
     <key>shortcut</key>
-    <string>:water_polo:</string>
+    <string>:water-polo:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6936,31 +6936,31 @@
     <key>phrase</key>
     <string>🤞</string>
     <key>shortcut</key>
-    <string>:hand_with_index_and_middle_fingers_crossed:</string>
+    <string>:hand-with-index-and-middle-fingers-crossed:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤙</string>
     <key>shortcut</key>
-    <string>:call_me_hand:</string>
+    <string>:call-me-hand:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤛</string>
     <key>shortcut</key>
-    <string>:left_facing_fist:</string>
+    <string>:left-facing-fist:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤜</string>
     <key>shortcut</key>
-    <string>:right_facing_fist:</string>
+    <string>:right-facing-fist:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤚</string>
     <key>shortcut</key>
-    <string>:raised_back_of_hand:</string>
+    <string>:raised-back-of-hand:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6972,7 +6972,7 @@
     <key>phrase</key>
     <string>🖤</string>
     <key>shortcut</key>
-    <string>:black_heart:</string>
+    <string>:black-heart:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -6984,7 +6984,7 @@
     <key>phrase</key>
     <string>🦊</string>
     <key>shortcut</key>
-    <string>:fox_face:</string>
+    <string>:fox-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7056,7 +7056,7 @@
     <key>phrase</key>
     <string>🥀</string>
     <key>shortcut</key>
-    <string>:wilted_flower:</string>
+    <string>:wilted-flower:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7104,7 +7104,7 @@
     <key>phrase</key>
     <string>🥖</string>
     <key>shortcut</key>
-    <string>:baguette_bread:</string>
+    <string>:baguette-bread:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7122,7 +7122,7 @@
     <key>phrase</key>
     <string>🥙</string>
     <key>shortcut</key>
-    <string>:stuffed_flatbread:</string>
+    <string>:stuffed-flatbread:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7134,31 +7134,31 @@
     <key>phrase</key>
     <string>🥘</string>
     <key>shortcut</key>
-    <string>:shallow_pan_of_food:</string>
+    <string>:shallow-pan-of-food:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🥗</string>
     <key>shortcut</key>
-    <string>:green_salad:</string>
+    <string>:green-salad:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🥛</string>
     <key>shortcut</key>
-    <string>:glass_of_milk:</string>
+    <string>:glass-of-milk:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🥂</string>
     <key>shortcut</key>
-    <string>:clinking_glasses:</string>
+    <string>:clinking-glasses:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🥃</string>
     <key>shortcut</key>
-    <string>:tumbler_glass:</string>
+    <string>:tumbler-glass:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7176,13 +7176,13 @@
     <key>phrase</key>
     <string>🛵</string>
     <key>shortcut</key>
-    <string>:motor_scooter:</string>
+    <string>:motor-scooter:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🛑</string>
     <key>shortcut</key>
-    <string>:octagonal_sign:</string>
+    <string>:octagonal-sign:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7194,103 +7194,103 @@
     <key>phrase</key>
     <string>🥇</string>
     <key>shortcut</key>
-    <string>:first_place_medal:</string>
+    <string>:first-place-medal:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🥈</string>
     <key>shortcut</key>
-    <string>:second_place_medal:</string>
+    <string>:second-place-medal:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🥉</string>
     <key>shortcut</key>
-    <string>:third_place_medal:</string>
+    <string>:third-place-medal:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🥊</string>
     <key>shortcut</key>
-    <string>:boxing_glove:</string>
+    <string>:boxing-glove:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🥋</string>
     <key>shortcut</key>
-    <string>:martial_arts_uniform:</string>
+    <string>:martial-arts-uniform:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🥅</string>
     <key>shortcut</key>
-    <string>:goal_net:</string>
+    <string>:goal-net:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🥁</string>
     <key>shortcut</key>
-    <string>:drum_with_drumsticks:</string>
+    <string>:drum-with-drumsticks:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🛒</string>
     <key>shortcut</key>
-    <string>:shopping_trolley:</string>
+    <string>:shopping-trolley:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤩</string>
     <key>shortcut</key>
-    <string>:grinning_face_with_star_eyes:</string>
+    <string>:grinning-face-with-star-eyes:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤨</string>
     <key>shortcut</key>
-    <string>:face_with_one_eyebrow_raised:</string>
+    <string>:face-with-one-eyebrow-raised:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤯</string>
     <key>shortcut</key>
-    <string>:shocked_face_with_exploding_head:</string>
+    <string>:shocked-face-with-exploding-head:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤪</string>
     <key>shortcut</key>
-    <string>:grinning_face_with_one_large_and_one_small_eye:</string>
+    <string>:grinning-face-with-one-large-and-one-small-eye:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤬</string>
     <key>shortcut</key>
-    <string>:serious_face_with_symbols_covering_mouth:</string>
+    <string>:serious-face-with-symbols-covering-mouth:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤮</string>
     <key>shortcut</key>
-    <string>:face_with_open_mouth_vomiting:</string>
+    <string>:face-with-open-mouth-vomiting:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤫</string>
     <key>shortcut</key>
-    <string>:face_with_finger_covering_closed_lips:</string>
+    <string>:face-with-finger-covering-closed-lips:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤭</string>
     <key>shortcut</key>
-    <string>:smiling_face_with_smiling_eyes_and_hand_covering_mouth:</string>
+    <string>:smiling-face-with-smiling-eyes-and-hand-covering-mouth:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🧐</string>
     <key>shortcut</key>
-    <string>:face_with_monocle:</string>
+    <string>:face-with-monocle:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7308,19 +7308,19 @@
     <key>phrase</key>
     <string>🧓</string>
     <key>shortcut</key>
-    <string>:older_adult:</string>
+    <string>:older-adult:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🧕</string>
     <key>shortcut</key>
-    <string>:person_with_headscarf:</string>
+    <string>:person-with-headscarf:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🧔</string>
     <key>shortcut</key>
-    <string>:bearded_person:</string>
+    <string>:bearded-person:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7374,31 +7374,31 @@
     <key>phrase</key>
     <string>🧖</string>
     <key>shortcut</key>
-    <string>:person_in_steamy_room:</string>
+    <string>:person-in-steamy-room:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🧗</string>
     <key>shortcut</key>
-    <string>:person_climbing:</string>
+    <string>:person-climbing:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🧘</string>
     <key>shortcut</key>
-    <string>:person_in_lotus_position:</string>
+    <string>:person-in-lotus-position:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤟</string>
     <key>shortcut</key>
-    <string>:i_love_you_hand_sign:</string>
+    <string>:i-love-you-hand-sign:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🤲</string>
     <key>shortcut</key>
-    <string>:palms_up_together:</string>
+    <string>:palms-up-together:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7410,7 +7410,7 @@
     <key>phrase</key>
     <string>🧡</string>
     <key>shortcut</key>
-    <string>:orange_heart:</string>
+    <string>:orange-heart:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7440,7 +7440,7 @@
     <key>phrase</key>
     <string>🧢</string>
     <key>shortcut</key>
-    <string>:billed_cap:</string>
+    <string>:billed-cap:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7452,7 +7452,7 @@
     <key>phrase</key>
     <string>🦒</string>
     <key>shortcut</key>
-    <string>:giraffe_face:</string>
+    <string>:giraffe-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7500,7 +7500,7 @@
     <key>phrase</key>
     <string>🥩</string>
     <key>shortcut</key>
-    <string>:cut_of_meat:</string>
+    <string>:cut-of-meat:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7512,13 +7512,13 @@
     <key>phrase</key>
     <string>🥣</string>
     <key>shortcut</key>
-    <string>:bowl_with_spoon:</string>
+    <string>:bowl-with-spoon:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🥫</string>
     <key>shortcut</key>
-    <string>:canned_food:</string>
+    <string>:canned-food:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7530,13 +7530,13 @@
     <key>phrase</key>
     <string>🥠</string>
     <key>shortcut</key>
-    <string>:fortune_cookie:</string>
+    <string>:fortune-cookie:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🥡</string>
     <key>shortcut</key>
-    <string>:takeout_box:</string>
+    <string>:takeout-box:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7548,7 +7548,7 @@
     <key>phrase</key>
     <string>🥤</string>
     <key>shortcut</key>
-    <string>:cup_with_straw:</string>
+    <string>:cup-with-straw:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7560,7 +7560,7 @@
     <key>phrase</key>
     <string>🛸</string>
     <key>shortcut</key>
-    <string>:flying_saucer:</string>
+    <string>:flying-saucer:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7572,49 +7572,49 @@
     <key>phrase</key>
     <string>🥌</string>
     <key>shortcut</key>
-    <string>:curling_stone:</string>
+    <string>:curling-stone:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>₿</string>
     <key>shortcut</key>
-    <string>:bitcoin_sign:</string>
+    <string>:bitcoin-sign:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🥰</string>
     <key>shortcut</key>
-    <string>:smiling_face_with_smiling_eyes_and_three_hearts:</string>
+    <string>:smiling-face-with-smiling-eyes-and-three-hearts:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🥵</string>
     <key>shortcut</key>
-    <string>:overheated_face:</string>
+    <string>:overheated-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🥶</string>
     <key>shortcut</key>
-    <string>:freezing_face:</string>
+    <string>:freezing-face:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🥳</string>
     <key>shortcut</key>
-    <string>:face_with_party_horn_and_party_hat:</string>
+    <string>:face-with-party-horn-and-party-hat:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🥴</string>
     <key>shortcut</key>
-    <string>:face_with_uneven_eyes_and_wavy_mouth:</string>
+    <string>:face-with-uneven-eyes-and-wavy-mouth:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🥺</string>
     <key>shortcut</key>
-    <string>:face_with_pleading_eyes:</string>
+    <string>:face-with-pleading-eyes:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7644,25 +7644,25 @@
     <key>phrase</key>
     <string>🦰</string>
     <key>shortcut</key>
-    <string>:emoji_component_red_hair:</string>
+    <string>:emoji-component-red-hair:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🦱</string>
     <key>shortcut</key>
-    <string>:emoji_component_curly_hair:</string>
+    <string>:emoji-component-curly-hair:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🦲</string>
     <key>shortcut</key>
-    <string>:emoji_component_bald:</string>
+    <string>:emoji-component-bald:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🦳</string>
     <key>shortcut</key>
-    <string>:emoji_component_white_hair:</string>
+    <string>:emoji-component-white-hair:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7686,19 +7686,19 @@
     <key>phrase</key>
     <string>🥼</string>
     <key>shortcut</key>
-    <string>:lab_coat:</string>
+    <string>:lab-coat:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🥾</string>
     <key>shortcut</key>
-    <string>:hiking_boot:</string>
+    <string>:hiking-boot:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🥿</string>
     <key>shortcut</key>
-    <string>:flat_shoe:</string>
+    <string>:flat-shoe:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7776,7 +7776,7 @@
     <key>phrase</key>
     <string>🥬</string>
     <key>shortcut</key>
-    <string>:leafy_green:</string>
+    <string>:leafy-green:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7788,13 +7788,13 @@
     <key>phrase</key>
     <string>🧂</string>
     <key>shortcut</key>
-    <string>:salt_shaker:</string>
+    <string>:salt-shaker:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🥮</string>
     <key>shortcut</key>
-    <string>:moon_cake:</string>
+    <string>:moon-cake:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7836,7 +7836,7 @@
     <key>phrase</key>
     <string>🧧</string>
     <key>shortcut</key>
-    <string>:red_gift_envelope:</string>
+    <string>:red-gift-envelope:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7848,31 +7848,31 @@
     <key>phrase</key>
     <string>🥏</string>
     <key>shortcut</key>
-    <string>:flying_disc:</string>
+    <string>:flying-disc:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🥍</string>
     <key>shortcut</key>
-    <string>:lacrosse_stick_and_ball:</string>
+    <string>:lacrosse-stick-and-ball:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🧿</string>
     <key>shortcut</key>
-    <string>:nazar_amulet:</string>
+    <string>:nazar-amulet:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🧩</string>
     <key>shortcut</key>
-    <string>:jigsaw_puzzle_piece:</string>
+    <string>:jigsaw-puzzle-piece:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🧸</string>
     <key>shortcut</key>
-    <string>:teddy_bear:</string>
+    <string>:teddy-bear:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7902,49 +7902,49 @@
     <key>phrase</key>
     <string>🧪</string>
     <key>shortcut</key>
-    <string>:test_tube:</string>
+    <string>:test-tube:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🧫</string>
     <key>shortcut</key>
-    <string>:petri_dish:</string>
+    <string>:petri-dish:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🧬</string>
     <key>shortcut</key>
-    <string>:dna_double_helix:</string>
+    <string>:dna-double-helix:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🧯</string>
     <key>shortcut</key>
-    <string>:fire_extinguisher:</string>
+    <string>:fire-extinguisher:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🧴</string>
     <key>shortcut</key>
-    <string>:lotion_bottle:</string>
+    <string>:lotion-bottle:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🧵</string>
     <key>shortcut</key>
-    <string>:spool_of_thread:</string>
+    <string>:spool-of-thread:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🧶</string>
     <key>shortcut</key>
-    <string>:ball_of_yarn:</string>
+    <string>:ball-of-yarn:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🧷</string>
     <key>shortcut</key>
-    <string>:safety_pin:</string>
+    <string>:safety-pin:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7962,13 +7962,13 @@
     <key>phrase</key>
     <string>🧻</string>
     <key>shortcut</key>
-    <string>:roll_of_paper:</string>
+    <string>:roll-of-paper:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🧼</string>
     <key>shortcut</key>
-    <string>:bar_of_soap:</string>
+    <string>:bar-of-soap:</string>
   </dict>
   <dict>
     <key>phrase</key>
@@ -7980,1585 +7980,1585 @@
     <key>phrase</key>
     <string>♾️</string>
     <key>shortcut</key>
-    <string>:permanent_paper_sign:</string>
+    <string>:permanent-paper-sign:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏴‍☠️</string>
     <key>shortcut</key>
-    <string>:pirate_flag:</string>
+    <string>:pirate-flag:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇦🇨</string>
     <key>shortcut</key>
-    <string>:flag_ac:</string>
+    <string>:flag-ac:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇦🇩</string>
     <key>shortcut</key>
-    <string>:flag_ad:</string>
+    <string>:flag-ad:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇦🇪</string>
     <key>shortcut</key>
-    <string>:flag_ae:</string>
+    <string>:flag-ae:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇦🇫</string>
     <key>shortcut</key>
-    <string>:flag_af:</string>
+    <string>:flag-af:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇦🇬</string>
     <key>shortcut</key>
-    <string>:flag_ag:</string>
+    <string>:flag-ag:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇦🇮</string>
     <key>shortcut</key>
-    <string>:flag_ai:</string>
+    <string>:flag-ai:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇦🇱</string>
     <key>shortcut</key>
-    <string>:flag_al:</string>
+    <string>:flag-al:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇦🇲</string>
     <key>shortcut</key>
-    <string>:flag_am:</string>
+    <string>:flag-am:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇦🇴</string>
     <key>shortcut</key>
-    <string>:flag_ao:</string>
+    <string>:flag-ao:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇦🇶</string>
     <key>shortcut</key>
-    <string>:flag_aq:</string>
+    <string>:flag-aq:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇦🇷</string>
     <key>shortcut</key>
-    <string>:flag_ar:</string>
+    <string>:flag-ar:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇦🇸</string>
     <key>shortcut</key>
-    <string>:flag_as:</string>
+    <string>:flag-as:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇦🇹</string>
     <key>shortcut</key>
-    <string>:flag_at:</string>
+    <string>:flag-at:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇦🇺</string>
     <key>shortcut</key>
-    <string>:flag_au:</string>
+    <string>:flag-au:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇦🇼</string>
     <key>shortcut</key>
-    <string>:flag_aw:</string>
+    <string>:flag-aw:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇦🇽</string>
     <key>shortcut</key>
-    <string>:flag_ax:</string>
+    <string>:flag-ax:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇦🇿</string>
     <key>shortcut</key>
-    <string>:flag_az:</string>
+    <string>:flag-az:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇧🇦</string>
     <key>shortcut</key>
-    <string>:flag_ba:</string>
+    <string>:flag-ba:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇧🇧</string>
     <key>shortcut</key>
-    <string>:flag_bb:</string>
+    <string>:flag-bb:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇧🇩</string>
     <key>shortcut</key>
-    <string>:flag_bd:</string>
+    <string>:flag-bd:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇧🇪</string>
     <key>shortcut</key>
-    <string>:flag_be:</string>
+    <string>:flag-be:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇧🇫</string>
     <key>shortcut</key>
-    <string>:flag_bf:</string>
+    <string>:flag-bf:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇧🇬</string>
     <key>shortcut</key>
-    <string>:flag_bg:</string>
+    <string>:flag-bg:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇧🇭</string>
     <key>shortcut</key>
-    <string>:flag_bh:</string>
+    <string>:flag-bh:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇧🇮</string>
     <key>shortcut</key>
-    <string>:flag_bi:</string>
+    <string>:flag-bi:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇧🇯</string>
     <key>shortcut</key>
-    <string>:flag_bj:</string>
+    <string>:flag-bj:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇧🇱</string>
     <key>shortcut</key>
-    <string>:flag_bl:</string>
+    <string>:flag-bl:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇧🇲</string>
     <key>shortcut</key>
-    <string>:flag_bm:</string>
+    <string>:flag-bm:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇧🇳</string>
     <key>shortcut</key>
-    <string>:flag_bn:</string>
+    <string>:flag-bn:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇧🇴</string>
     <key>shortcut</key>
-    <string>:flag_bo:</string>
+    <string>:flag-bo:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇧🇶</string>
     <key>shortcut</key>
-    <string>:flag_bq:</string>
+    <string>:flag-bq:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇧🇷</string>
     <key>shortcut</key>
-    <string>:flag_br:</string>
+    <string>:flag-br:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇧🇸</string>
     <key>shortcut</key>
-    <string>:flag_bs:</string>
+    <string>:flag-bs:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇧🇹</string>
     <key>shortcut</key>
-    <string>:flag_bt:</string>
+    <string>:flag-bt:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇧🇻</string>
     <key>shortcut</key>
-    <string>:flag_bv:</string>
+    <string>:flag-bv:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇧🇼</string>
     <key>shortcut</key>
-    <string>:flag_bw:</string>
+    <string>:flag-bw:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇧🇾</string>
     <key>shortcut</key>
-    <string>:flag_by:</string>
+    <string>:flag-by:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇧🇿</string>
     <key>shortcut</key>
-    <string>:flag_bz:</string>
+    <string>:flag-bz:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇨🇦</string>
     <key>shortcut</key>
-    <string>:flag_ca:</string>
+    <string>:flag-ca:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇨🇨</string>
     <key>shortcut</key>
-    <string>:flag_cc:</string>
+    <string>:flag-cc:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇨🇩</string>
     <key>shortcut</key>
-    <string>:flag_cd:</string>
+    <string>:flag-cd:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇨🇫</string>
     <key>shortcut</key>
-    <string>:flag_cf:</string>
+    <string>:flag-cf:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇨🇬</string>
     <key>shortcut</key>
-    <string>:flag_cg:</string>
+    <string>:flag-cg:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇨🇭</string>
     <key>shortcut</key>
-    <string>:flag_ch:</string>
+    <string>:flag-ch:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇨🇮</string>
     <key>shortcut</key>
-    <string>:flag_ci:</string>
+    <string>:flag-ci:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇨🇰</string>
     <key>shortcut</key>
-    <string>:flag_ck:</string>
+    <string>:flag-ck:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇨🇱</string>
     <key>shortcut</key>
-    <string>:flag_cl:</string>
+    <string>:flag-cl:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇨🇲</string>
     <key>shortcut</key>
-    <string>:flag_cm:</string>
+    <string>:flag-cm:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇨🇳</string>
     <key>shortcut</key>
-    <string>:flag_cn:</string>
+    <string>:flag-cn:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇨🇴</string>
     <key>shortcut</key>
-    <string>:flag_co:</string>
+    <string>:flag-co:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇨🇵</string>
     <key>shortcut</key>
-    <string>:flag_cp:</string>
+    <string>:flag-cp:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇨🇷</string>
     <key>shortcut</key>
-    <string>:flag_cr:</string>
+    <string>:flag-cr:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇨🇺</string>
     <key>shortcut</key>
-    <string>:flag_cu:</string>
+    <string>:flag-cu:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇨🇻</string>
     <key>shortcut</key>
-    <string>:flag_cv:</string>
+    <string>:flag-cv:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇨🇼</string>
     <key>shortcut</key>
-    <string>:flag_cw:</string>
+    <string>:flag-cw:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇨🇽</string>
     <key>shortcut</key>
-    <string>:flag_cx:</string>
+    <string>:flag-cx:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇨🇾</string>
     <key>shortcut</key>
-    <string>:flag_cy:</string>
+    <string>:flag-cy:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇨🇿</string>
     <key>shortcut</key>
-    <string>:flag_cz:</string>
+    <string>:flag-cz:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇩🇪</string>
     <key>shortcut</key>
-    <string>:flag_de:</string>
+    <string>:flag-de:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇩🇬</string>
     <key>shortcut</key>
-    <string>:flag_dg:</string>
+    <string>:flag-dg:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇩🇯</string>
     <key>shortcut</key>
-    <string>:flag_dj:</string>
+    <string>:flag-dj:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇩🇰</string>
     <key>shortcut</key>
-    <string>:flag_dk:</string>
+    <string>:flag-dk:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇩🇲</string>
     <key>shortcut</key>
-    <string>:flag_dm:</string>
+    <string>:flag-dm:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇩🇴</string>
     <key>shortcut</key>
-    <string>:flag_do:</string>
+    <string>:flag-do:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇩🇿</string>
     <key>shortcut</key>
-    <string>:flag_dz:</string>
+    <string>:flag-dz:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇪🇦</string>
     <key>shortcut</key>
-    <string>:flag_ea:</string>
+    <string>:flag-ea:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇪🇨</string>
     <key>shortcut</key>
-    <string>:flag_ec:</string>
+    <string>:flag-ec:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇪🇪</string>
     <key>shortcut</key>
-    <string>:flag_ee:</string>
+    <string>:flag-ee:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇪🇬</string>
     <key>shortcut</key>
-    <string>:flag_eg:</string>
+    <string>:flag-eg:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇪🇭</string>
     <key>shortcut</key>
-    <string>:flag_eh:</string>
+    <string>:flag-eh:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇪🇷</string>
     <key>shortcut</key>
-    <string>:flag_er:</string>
+    <string>:flag-er:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇪🇸</string>
     <key>shortcut</key>
-    <string>:flag_es:</string>
+    <string>:flag-es:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇪🇹</string>
     <key>shortcut</key>
-    <string>:flag_et:</string>
+    <string>:flag-et:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇪🇺</string>
     <key>shortcut</key>
-    <string>:flag_eu:</string>
+    <string>:flag-eu:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇫🇮</string>
     <key>shortcut</key>
-    <string>:flag_fi:</string>
+    <string>:flag-fi:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇫🇯</string>
     <key>shortcut</key>
-    <string>:flag_fj:</string>
+    <string>:flag-fj:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇫🇰</string>
     <key>shortcut</key>
-    <string>:flag_fk:</string>
+    <string>:flag-fk:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇫🇲</string>
     <key>shortcut</key>
-    <string>:flag_fm:</string>
+    <string>:flag-fm:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇫🇴</string>
     <key>shortcut</key>
-    <string>:flag_fo:</string>
+    <string>:flag-fo:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇫🇷</string>
     <key>shortcut</key>
-    <string>:flag_fr:</string>
+    <string>:flag-fr:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇬🇦</string>
     <key>shortcut</key>
-    <string>:flag_ga:</string>
+    <string>:flag-ga:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇬🇧</string>
     <key>shortcut</key>
-    <string>:flag_gb:</string>
+    <string>:flag-gb:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇬🇩</string>
     <key>shortcut</key>
-    <string>:flag_gd:</string>
+    <string>:flag-gd:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇬🇪</string>
     <key>shortcut</key>
-    <string>:flag_ge:</string>
+    <string>:flag-ge:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇬🇫</string>
     <key>shortcut</key>
-    <string>:flag_gf:</string>
+    <string>:flag-gf:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇬🇬</string>
     <key>shortcut</key>
-    <string>:flag_gg:</string>
+    <string>:flag-gg:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇬🇭</string>
     <key>shortcut</key>
-    <string>:flag_gh:</string>
+    <string>:flag-gh:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇬🇮</string>
     <key>shortcut</key>
-    <string>:flag_gi:</string>
+    <string>:flag-gi:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇬🇱</string>
     <key>shortcut</key>
-    <string>:flag_gl:</string>
+    <string>:flag-gl:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇬🇲</string>
     <key>shortcut</key>
-    <string>:flag_gm:</string>
+    <string>:flag-gm:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇬🇳</string>
     <key>shortcut</key>
-    <string>:flag_gn:</string>
+    <string>:flag-gn:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇬🇵</string>
     <key>shortcut</key>
-    <string>:flag_gp:</string>
+    <string>:flag-gp:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇬🇶</string>
     <key>shortcut</key>
-    <string>:flag_gq:</string>
+    <string>:flag-gq:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇬🇷</string>
     <key>shortcut</key>
-    <string>:flag_gr:</string>
+    <string>:flag-gr:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇬🇸</string>
     <key>shortcut</key>
-    <string>:flag_gs:</string>
+    <string>:flag-gs:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇬🇹</string>
     <key>shortcut</key>
-    <string>:flag_gt:</string>
+    <string>:flag-gt:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇬🇺</string>
     <key>shortcut</key>
-    <string>:flag_gu:</string>
+    <string>:flag-gu:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇬🇼</string>
     <key>shortcut</key>
-    <string>:flag_gw:</string>
+    <string>:flag-gw:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇬🇾</string>
     <key>shortcut</key>
-    <string>:flag_gy:</string>
+    <string>:flag-gy:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇭🇰</string>
     <key>shortcut</key>
-    <string>:flag_hk:</string>
+    <string>:flag-hk:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇭🇲</string>
     <key>shortcut</key>
-    <string>:flag_hm:</string>
+    <string>:flag-hm:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇭🇳</string>
     <key>shortcut</key>
-    <string>:flag_hn:</string>
+    <string>:flag-hn:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇭🇷</string>
     <key>shortcut</key>
-    <string>:flag_hr:</string>
+    <string>:flag-hr:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇭🇹</string>
     <key>shortcut</key>
-    <string>:flag_ht:</string>
+    <string>:flag-ht:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇭🇺</string>
     <key>shortcut</key>
-    <string>:flag_hu:</string>
+    <string>:flag-hu:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇮🇨</string>
     <key>shortcut</key>
-    <string>:flag_ic:</string>
+    <string>:flag-ic:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇮🇩</string>
     <key>shortcut</key>
-    <string>:flag_id:</string>
+    <string>:flag-id:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇮🇪</string>
     <key>shortcut</key>
-    <string>:flag_ie:</string>
+    <string>:flag-ie:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇮🇱</string>
     <key>shortcut</key>
-    <string>:flag_il:</string>
+    <string>:flag-il:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇮🇲</string>
     <key>shortcut</key>
-    <string>:flag_im:</string>
+    <string>:flag-im:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇮🇳</string>
     <key>shortcut</key>
-    <string>:flag_in:</string>
+    <string>:flag-in:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇮🇴</string>
     <key>shortcut</key>
-    <string>:flag_io:</string>
+    <string>:flag-io:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇮🇶</string>
     <key>shortcut</key>
-    <string>:flag_iq:</string>
+    <string>:flag-iq:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇮🇷</string>
     <key>shortcut</key>
-    <string>:flag_ir:</string>
+    <string>:flag-ir:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇮🇸</string>
     <key>shortcut</key>
-    <string>:flag_is:</string>
+    <string>:flag-is:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇮🇹</string>
     <key>shortcut</key>
-    <string>:flag_it:</string>
+    <string>:flag-it:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇯🇪</string>
     <key>shortcut</key>
-    <string>:flag_je:</string>
+    <string>:flag-je:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇯🇲</string>
     <key>shortcut</key>
-    <string>:flag_jm:</string>
+    <string>:flag-jm:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇯🇴</string>
     <key>shortcut</key>
-    <string>:flag_jo:</string>
+    <string>:flag-jo:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇯🇵</string>
     <key>shortcut</key>
-    <string>:flag_jp:</string>
+    <string>:flag-jp:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇰🇪</string>
     <key>shortcut</key>
-    <string>:flag_ke:</string>
+    <string>:flag-ke:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇰🇬</string>
     <key>shortcut</key>
-    <string>:flag_kg:</string>
+    <string>:flag-kg:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇰🇭</string>
     <key>shortcut</key>
-    <string>:flag_kh:</string>
+    <string>:flag-kh:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇰🇮</string>
     <key>shortcut</key>
-    <string>:flag_ki:</string>
+    <string>:flag-ki:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇰🇲</string>
     <key>shortcut</key>
-    <string>:flag_km:</string>
+    <string>:flag-km:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇰🇳</string>
     <key>shortcut</key>
-    <string>:flag_kn:</string>
+    <string>:flag-kn:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇰🇵</string>
     <key>shortcut</key>
-    <string>:flag_kp:</string>
+    <string>:flag-kp:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇰🇷</string>
     <key>shortcut</key>
-    <string>:flag_kr:</string>
+    <string>:flag-kr:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇰🇼</string>
     <key>shortcut</key>
-    <string>:flag_kw:</string>
+    <string>:flag-kw:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇰🇾</string>
     <key>shortcut</key>
-    <string>:flag_ky:</string>
+    <string>:flag-ky:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇰🇿</string>
     <key>shortcut</key>
-    <string>:flag_kz:</string>
+    <string>:flag-kz:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇱🇦</string>
     <key>shortcut</key>
-    <string>:flag_la:</string>
+    <string>:flag-la:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇱🇧</string>
     <key>shortcut</key>
-    <string>:flag_lb:</string>
+    <string>:flag-lb:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇱🇨</string>
     <key>shortcut</key>
-    <string>:flag_lc:</string>
+    <string>:flag-lc:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇱🇮</string>
     <key>shortcut</key>
-    <string>:flag_li:</string>
+    <string>:flag-li:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇱🇰</string>
     <key>shortcut</key>
-    <string>:flag_lk:</string>
+    <string>:flag-lk:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇱🇷</string>
     <key>shortcut</key>
-    <string>:flag_lr:</string>
+    <string>:flag-lr:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇱🇸</string>
     <key>shortcut</key>
-    <string>:flag_ls:</string>
+    <string>:flag-ls:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇱🇹</string>
     <key>shortcut</key>
-    <string>:flag_lt:</string>
+    <string>:flag-lt:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇱🇺</string>
     <key>shortcut</key>
-    <string>:flag_lu:</string>
+    <string>:flag-lu:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇱🇻</string>
     <key>shortcut</key>
-    <string>:flag_lv:</string>
+    <string>:flag-lv:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇱🇾</string>
     <key>shortcut</key>
-    <string>:flag_ly:</string>
+    <string>:flag-ly:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇲🇦</string>
     <key>shortcut</key>
-    <string>:flag_ma:</string>
+    <string>:flag-ma:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇲🇨</string>
     <key>shortcut</key>
-    <string>:flag_mc:</string>
+    <string>:flag-mc:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇲🇩</string>
     <key>shortcut</key>
-    <string>:flag_md:</string>
+    <string>:flag-md:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇲🇪</string>
     <key>shortcut</key>
-    <string>:flag_me:</string>
+    <string>:flag-me:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇲🇫</string>
     <key>shortcut</key>
-    <string>:flag_mf:</string>
+    <string>:flag-mf:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇲🇬</string>
     <key>shortcut</key>
-    <string>:flag_mg:</string>
+    <string>:flag-mg:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇲🇭</string>
     <key>shortcut</key>
-    <string>:flag_mh:</string>
+    <string>:flag-mh:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇲🇰</string>
     <key>shortcut</key>
-    <string>:flag_mk:</string>
+    <string>:flag-mk:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇲🇱</string>
     <key>shortcut</key>
-    <string>:flag_ml:</string>
+    <string>:flag-ml:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇲🇲</string>
     <key>shortcut</key>
-    <string>:flag_mm:</string>
+    <string>:flag-mm:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇲🇳</string>
     <key>shortcut</key>
-    <string>:flag_mn:</string>
+    <string>:flag-mn:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇲🇴</string>
     <key>shortcut</key>
-    <string>:flag_mo:</string>
+    <string>:flag-mo:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇲🇵</string>
     <key>shortcut</key>
-    <string>:flag_mp:</string>
+    <string>:flag-mp:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇲🇶</string>
     <key>shortcut</key>
-    <string>:flag_mq:</string>
+    <string>:flag-mq:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇲🇷</string>
     <key>shortcut</key>
-    <string>:flag_mr:</string>
+    <string>:flag-mr:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇲🇸</string>
     <key>shortcut</key>
-    <string>:flag_ms:</string>
+    <string>:flag-ms:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇲🇹</string>
     <key>shortcut</key>
-    <string>:flag_mt:</string>
+    <string>:flag-mt:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇲🇺</string>
     <key>shortcut</key>
-    <string>:flag_mu:</string>
+    <string>:flag-mu:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇲🇻</string>
     <key>shortcut</key>
-    <string>:flag_mv:</string>
+    <string>:flag-mv:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇲🇼</string>
     <key>shortcut</key>
-    <string>:flag_mw:</string>
+    <string>:flag-mw:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇲🇽</string>
     <key>shortcut</key>
-    <string>:flag_mx:</string>
+    <string>:flag-mx:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇲🇾</string>
     <key>shortcut</key>
-    <string>:flag_my:</string>
+    <string>:flag-my:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇲🇿</string>
     <key>shortcut</key>
-    <string>:flag_mz:</string>
+    <string>:flag-mz:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇳🇦</string>
     <key>shortcut</key>
-    <string>:flag_na:</string>
+    <string>:flag-na:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇳🇨</string>
     <key>shortcut</key>
-    <string>:flag_nc:</string>
+    <string>:flag-nc:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇳🇪</string>
     <key>shortcut</key>
-    <string>:flag_ne:</string>
+    <string>:flag-ne:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇳🇫</string>
     <key>shortcut</key>
-    <string>:flag_nf:</string>
+    <string>:flag-nf:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇳🇬</string>
     <key>shortcut</key>
-    <string>:flag_ng:</string>
+    <string>:flag-ng:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇳🇮</string>
     <key>shortcut</key>
-    <string>:flag_ni:</string>
+    <string>:flag-ni:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇳🇱</string>
     <key>shortcut</key>
-    <string>:flag_nl:</string>
+    <string>:flag-nl:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇳🇴</string>
     <key>shortcut</key>
-    <string>:flag_no:</string>
+    <string>:flag-no:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇳🇵</string>
     <key>shortcut</key>
-    <string>:flag_np:</string>
+    <string>:flag-np:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇳🇷</string>
     <key>shortcut</key>
-    <string>:flag_nr:</string>
+    <string>:flag-nr:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇳🇺</string>
     <key>shortcut</key>
-    <string>:flag_nu:</string>
+    <string>:flag-nu:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇳🇿</string>
     <key>shortcut</key>
-    <string>:flag_nz:</string>
+    <string>:flag-nz:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇴🇲</string>
     <key>shortcut</key>
-    <string>:flag_om:</string>
+    <string>:flag-om:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇵🇦</string>
     <key>shortcut</key>
-    <string>:flag_pa:</string>
+    <string>:flag-pa:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇵🇪</string>
     <key>shortcut</key>
-    <string>:flag_pe:</string>
+    <string>:flag-pe:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇵🇫</string>
     <key>shortcut</key>
-    <string>:flag_pf:</string>
+    <string>:flag-pf:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇵🇬</string>
     <key>shortcut</key>
-    <string>:flag_pg:</string>
+    <string>:flag-pg:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇵🇭</string>
     <key>shortcut</key>
-    <string>:flag_ph:</string>
+    <string>:flag-ph:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇵🇰</string>
     <key>shortcut</key>
-    <string>:flag_pk:</string>
+    <string>:flag-pk:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇵🇱</string>
     <key>shortcut</key>
-    <string>:flag_pl:</string>
+    <string>:flag-pl:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇵🇲</string>
     <key>shortcut</key>
-    <string>:flag_pm:</string>
+    <string>:flag-pm:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇵🇳</string>
     <key>shortcut</key>
-    <string>:flag_pn:</string>
+    <string>:flag-pn:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇵🇷</string>
     <key>shortcut</key>
-    <string>:flag_pr:</string>
+    <string>:flag-pr:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇵🇸</string>
     <key>shortcut</key>
-    <string>:flag_ps:</string>
+    <string>:flag-ps:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇵🇹</string>
     <key>shortcut</key>
-    <string>:flag_pt:</string>
+    <string>:flag-pt:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇵🇼</string>
     <key>shortcut</key>
-    <string>:flag_pw:</string>
+    <string>:flag-pw:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇵🇾</string>
     <key>shortcut</key>
-    <string>:flag_py:</string>
+    <string>:flag-py:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇶🇦</string>
     <key>shortcut</key>
-    <string>:flag_qa:</string>
+    <string>:flag-qa:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇷🇪</string>
     <key>shortcut</key>
-    <string>:flag_re:</string>
+    <string>:flag-re:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇷🇴</string>
     <key>shortcut</key>
-    <string>:flag_ro:</string>
+    <string>:flag-ro:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇷🇸</string>
     <key>shortcut</key>
-    <string>:flag_rs:</string>
+    <string>:flag-rs:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇷🇺</string>
     <key>shortcut</key>
-    <string>:flag_ru:</string>
+    <string>:flag-ru:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇷🇼</string>
     <key>shortcut</key>
-    <string>:flag_rw:</string>
+    <string>:flag-rw:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇸🇦</string>
     <key>shortcut</key>
-    <string>:flag_sa:</string>
+    <string>:flag-sa:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇸🇧</string>
     <key>shortcut</key>
-    <string>:flag_sb:</string>
+    <string>:flag-sb:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇸🇨</string>
     <key>shortcut</key>
-    <string>:flag_sc:</string>
+    <string>:flag-sc:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇸🇩</string>
     <key>shortcut</key>
-    <string>:flag_sd:</string>
+    <string>:flag-sd:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇸🇪</string>
     <key>shortcut</key>
-    <string>:flag_se:</string>
+    <string>:flag-se:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇸🇬</string>
     <key>shortcut</key>
-    <string>:flag_sg:</string>
+    <string>:flag-sg:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇸🇭</string>
     <key>shortcut</key>
-    <string>:flag_sh:</string>
+    <string>:flag-sh:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇸🇮</string>
     <key>shortcut</key>
-    <string>:flag_si:</string>
+    <string>:flag-si:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇸🇯</string>
     <key>shortcut</key>
-    <string>:flag_sj:</string>
+    <string>:flag-sj:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇸🇰</string>
     <key>shortcut</key>
-    <string>:flag_sk:</string>
+    <string>:flag-sk:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇸🇱</string>
     <key>shortcut</key>
-    <string>:flag_sl:</string>
+    <string>:flag-sl:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇸🇲</string>
     <key>shortcut</key>
-    <string>:flag_sm:</string>
+    <string>:flag-sm:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇸🇳</string>
     <key>shortcut</key>
-    <string>:flag_sn:</string>
+    <string>:flag-sn:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇸🇴</string>
     <key>shortcut</key>
-    <string>:flag_so:</string>
+    <string>:flag-so:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇸🇷</string>
     <key>shortcut</key>
-    <string>:flag_sr:</string>
+    <string>:flag-sr:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇸🇸</string>
     <key>shortcut</key>
-    <string>:flag_ss:</string>
+    <string>:flag-ss:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇸🇹</string>
     <key>shortcut</key>
-    <string>:flag_st:</string>
+    <string>:flag-st:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇸🇻</string>
     <key>shortcut</key>
-    <string>:flag_sv:</string>
+    <string>:flag-sv:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇸🇽</string>
     <key>shortcut</key>
-    <string>:flag_sx:</string>
+    <string>:flag-sx:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇸🇾</string>
     <key>shortcut</key>
-    <string>:flag_sy:</string>
+    <string>:flag-sy:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇸🇿</string>
     <key>shortcut</key>
-    <string>:flag_sz:</string>
+    <string>:flag-sz:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇹🇦</string>
     <key>shortcut</key>
-    <string>:flag_ta:</string>
+    <string>:flag-ta:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇹🇨</string>
     <key>shortcut</key>
-    <string>:flag_tc:</string>
+    <string>:flag-tc:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇹🇩</string>
     <key>shortcut</key>
-    <string>:flag_td:</string>
+    <string>:flag-td:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇹🇫</string>
     <key>shortcut</key>
-    <string>:flag_tf:</string>
+    <string>:flag-tf:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇹🇬</string>
     <key>shortcut</key>
-    <string>:flag_tg:</string>
+    <string>:flag-tg:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇹🇭</string>
     <key>shortcut</key>
-    <string>:flag_th:</string>
+    <string>:flag-th:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇹🇯</string>
     <key>shortcut</key>
-    <string>:flag_tj:</string>
+    <string>:flag-tj:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇹🇰</string>
     <key>shortcut</key>
-    <string>:flag_tk:</string>
+    <string>:flag-tk:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇹🇱</string>
     <key>shortcut</key>
-    <string>:flag_tl:</string>
+    <string>:flag-tl:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇹🇲</string>
     <key>shortcut</key>
-    <string>:flag_tm:</string>
+    <string>:flag-tm:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇹🇳</string>
     <key>shortcut</key>
-    <string>:flag_tn:</string>
+    <string>:flag-tn:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇹🇴</string>
     <key>shortcut</key>
-    <string>:flag_to:</string>
+    <string>:flag-to:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇹🇷</string>
     <key>shortcut</key>
-    <string>:flag_tr:</string>
+    <string>:flag-tr:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇹🇹</string>
     <key>shortcut</key>
-    <string>:flag_tt:</string>
+    <string>:flag-tt:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇹🇻</string>
     <key>shortcut</key>
-    <string>:flag_tv:</string>
+    <string>:flag-tv:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇹🇼</string>
     <key>shortcut</key>
-    <string>:flag_tw:</string>
+    <string>:flag-tw:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇹🇿</string>
     <key>shortcut</key>
-    <string>:flag_tz:</string>
+    <string>:flag-tz:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇺🇦</string>
     <key>shortcut</key>
-    <string>:flag_ua:</string>
+    <string>:flag-ua:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇺🇬</string>
     <key>shortcut</key>
-    <string>:flag_ug:</string>
+    <string>:flag-ug:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇺🇲</string>
     <key>shortcut</key>
-    <string>:flag_um:</string>
+    <string>:flag-um:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇺🇳</string>
     <key>shortcut</key>
-    <string>:flag_un:</string>
+    <string>:flag-un:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇺🇸</string>
     <key>shortcut</key>
-    <string>:flag_us:</string>
+    <string>:flag-us:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇺🇾</string>
     <key>shortcut</key>
-    <string>:flag_uy:</string>
+    <string>:flag-uy:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇺🇿</string>
     <key>shortcut</key>
-    <string>:flag_uz:</string>
+    <string>:flag-uz:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇻🇦</string>
     <key>shortcut</key>
-    <string>:flag_va:</string>
+    <string>:flag-va:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇻🇨</string>
     <key>shortcut</key>
-    <string>:flag_vc:</string>
+    <string>:flag-vc:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇻🇪</string>
     <key>shortcut</key>
-    <string>:flag_ve:</string>
+    <string>:flag-ve:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇻🇬</string>
     <key>shortcut</key>
-    <string>:flag_vg:</string>
+    <string>:flag-vg:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇻🇳</string>
     <key>shortcut</key>
-    <string>:flag_vn:</string>
+    <string>:flag-vn:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇻🇺</string>
     <key>shortcut</key>
-    <string>:flag_vu:</string>
+    <string>:flag-vu:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇼🇫</string>
     <key>shortcut</key>
-    <string>:flag_wf:</string>
+    <string>:flag-wf:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇼🇸</string>
     <key>shortcut</key>
-    <string>:flag_ws:</string>
+    <string>:flag-ws:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇽🇰</string>
     <key>shortcut</key>
-    <string>:flag_xk:</string>
+    <string>:flag-xk:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇾🇪</string>
     <key>shortcut</key>
-    <string>:flag_ye:</string>
+    <string>:flag-ye:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇾🇹</string>
     <key>shortcut</key>
-    <string>:flag_yt:</string>
+    <string>:flag-yt:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇿🇦</string>
     <key>shortcut</key>
-    <string>:flag_za:</string>
+    <string>:flag-za:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇿🇲</string>
     <key>shortcut</key>
-    <string>:flag_zm:</string>
+    <string>:flag-zm:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🇿🇼</string>
     <key>shortcut</key>
-    <string>:flag_zw:</string>
+    <string>:flag-zw:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏴󠁧󠁢󠁥󠁮󠁧󠁿</string>
     <key>shortcut</key>
-    <string>:flag_gbeng:</string>
+    <string>:flag-gbeng:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏴󠁧󠁢󠁳󠁣󠁴󠁿</string>
     <key>shortcut</key>
-    <string>:flag_gbsct:</string>
+    <string>:flag-gbsct:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string>🏴󠁧󠁢󠁷󠁬󠁳󠁿</string>
     <key>shortcut</key>
-    <string>:flag_gbwls:</string>
+    <string>:flag-gbwls:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string></string>
     <key>shortcut</key>
-    <string>:apple_logo:</string>
+    <string>:apple-logo:</string>
   </dict>
   <dict>
     <key>phrase</key>
     <string></string>
     <key>shortcut</key>
-    <string>:beats_1_logo:</string>
+    <string>:beats-1-logo:</string>
   </dict>
 </array>
 </plist>
