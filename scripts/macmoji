@@ -2,6 +2,9 @@
 #
 # Install or uninstall the text replacements
 
+# fail script if any command fails
+set -e
+
 cd "$(dirname "$(realpath "$0")")";
 
 DATE=$(date +%s)
