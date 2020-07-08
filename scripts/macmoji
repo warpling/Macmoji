@@ -35,6 +35,8 @@ contains () {
 install() {
   echo "Installing Macmoji text replacements..."
 
+  [ -x /usr/local/bin/brew ] && brew bundle --no-lock --file=../Brewfile
+
   PK_LAST=$(${SQLITE} "${USER_DICTIONARY}" "SELECT Z_PK FROM ZUSERDICTIONARYENTRY ORDER BY Z_PK DESC LIMIT 1;")
 
   pk=$PK_LAST
