@@ -13,6 +13,8 @@
 1. Just run `./scripts/macmoji install` (or even `uninstall`!)
 (Thanks [mshick](https://github.com/mshick)!)
 
+**Note:** This will install `coreutils` from homebrew if homebrew is available on your system.
+
 #### Gif instructions:
 ![How to "install" Macmoji](https://github.com/warpling/Macmoji/blob/master/gifs/how%20to%20install.gif?raw=true)
 
@@ -65,12 +67,6 @@ Keyboard text substitutions sync across iCloud. I haven't found a way to disable
 
 #### 😠 Sometimes it just stops working in some applications
 No clue. Beats me. Have a hunch why? I'd love to hear it!
-
-#### ☹️ `realpath: command not found`
-You may need to install [Homebrew](https://brew.sh/) and then run the following to install `coreutils`. Please comment on [issue #35](https://github.com/warpling/Macmoji/issues/35) if you experience this!
-```
-brew install coreutils
-```
 
 ## Change Log
 
