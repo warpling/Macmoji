@@ -78,7 +78,7 @@ def main():
         settings = json.load(settings_file)
 
     # Load in the canonical emoji substitutions
-    emoji_substitutions_file = os.path.join(scripts_directory, '../emoji substitutions.plist')
+    emoji_substitutions_file = os.path.join(scripts_directory, '../emojiSubstitutions.plist')
     emoji_substitutions = plistlib.readPlist(emoji_substitutions_file)
 
     generate_alfred_snippets(emoji_substitutions)
