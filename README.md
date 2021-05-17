@@ -26,7 +26,7 @@ If you'd prefer to use Keyboard Maestro to handle the substitutions, import the 
 If you'd prefer to import these shortcuts with Alfred as Snippets just drag the `.alfredsnippets` into Alfred's Snippet preferences!
 
 ### Install Script (Deprecated)
-1. There used to be a CLI for installing Macmoji but it was brittle and tended to break with every other Mac OS version. I wasn't able to get it working for Big Sur and the drag/drop installation still works quite well so that is the only way to install it at this time!
+There used to be a CLI for installing Macmoji but it was brittle and tended to break with every other Mac OS version. I wasn't able to get it working for Big Sur and the drag/drop installation still works quite well so that is the only way to install it at this time!
 
 ## FAQ
 
