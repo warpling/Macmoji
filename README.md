@@ -9,10 +9,6 @@
 3. Drag the `emoji substitutions.plist` to the list of substitutions to add them
 4. Type something like `:boom:` or `:blackbox:` and hit `Space` after! 💥⬛️
 
-##### Know bash?
-1. Just run `./scripts/macmoji install` (or even `uninstall`!)
-(Thanks [mshick](https://github.com/mshick)!)
-
 #### Gif instructions:
 ![How to "install" Macmoji](https://github.com/warpling/Macmoji/blob/master/gifs/how%20to%20install.gif?raw=true)
 
@@ -28,6 +24,9 @@ If you'd prefer to use Keyboard Maestro to handle the substitutions, import the 
 ### Alfred Version
 
 If you'd prefer to import these shortcuts with Alfred as Snippets just drag the `.alfredsnippets` into Alfred's Snippet preferences!
+
+### Install Script (Deprecated)
+1. There used to be a CLI for installing Macmoji but it was brittle and tended to break with every other Mac OS version. I wasn't able to get it working for Big Sur and the drag/drop installation still works quite well so that is the only way to install it at this time!
 
 ## FAQ
 
@@ -65,12 +64,6 @@ Keyboard text substitutions sync across iCloud. I haven't found a way to disable
 
 #### 😠 Sometimes it just stops working in some applications
 No clue. Beats me. Have a hunch why? I'd love to hear it!
-
-#### ☹️ `realpath: command not found`
-You may need to install [Homebrew](https://brew.sh/) and then run the following to install `coreutils`. Please comment on [issue #35](https://github.com/warpling/Macmoji/issues/35) if you experience this!
-```
-brew install coreutils
-```
 
 ## Change Log
 
