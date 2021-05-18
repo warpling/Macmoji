@@ -4,16 +4,16 @@
 
 #### _Psst!_ Upgrading from a previous version of Macmoji? [Read this first](#change-log).
 
-1. [Download `emoji substitutions.plist`](https://raw.githubusercontent.com/warpling/Macmoji/master/emoji%20substitutions.plist) (make sure it has the extension `.plist`)
+1. [Download `emojiSubstitutions.plist`](https://raw.githubusercontent.com/warpling/Macmoji/master/emojiSubstitutions.plist) (make sure it has the extension `.plist`)
 2. Open System Preferences and navigate to **Keyboard** > **Text**
-3. Drag the `emoji substitutions.plist` to the list of substitutions to add them
+3. Drag the `emojiSubstitutions.plist` to the list of substitutions to add them
 4. Type something like `:boom:` or `:blackbox:` and hit `Space` after! 💥⬛️
 
 #### Gif instructions:
 ![How to "install" Macmoji](https://github.com/warpling/Macmoji/blob/master/gifs/how%20to%20install.gif?raw=true)
 
 ## Other Installations
-Thanks to the fantastic work of [rael9](https://github.com/rael9) Macmoji now has a script for generating other template files (Maestro, Alfred, etc) from the latest emoji substitutions list. If you add emoji substitutions to the base `.plist` simply run `python scripts/update-output.py` from the base directory and the various outputs based on the templates in `templates/*` will be generated in the base directory. Creating new templates is [easy and highly encouraged](https://github.com/warpling/Macmoji/pull/14#issuecomment-232850622)!
+Thanks to the fantastic work of [rael9](https://github.com/rael9) Macmoji now has a script for generating other template files (Maestro, Alfred, etc) from the latest emoji substitutions list. If you add emoji substitutions to the base `.plist` simply run `python2 scripts/update-output.py` (`python3` will fail) *from the scripts directory* and the various outputs based on the templates in `templates/*` will be generated and placed in the base directory. Creating new templates is [easy and highly encouraged](https://github.com/warpling/Macmoji/pull/14#issuecomment-232850622)!
 
 ### Keyboard Maestro Version
 
@@ -72,6 +72,7 @@ Looking to update to the [latest release](https://github.com/warpling/Macmoji/re
 
 |       Date       |       Commit       |       Changes       |
 | ---------------- | ------------------ | ------------------- |
+| May 18th, 2021 | [---]() | Changed plist to use camelCase, and updated README
 | May 18th, 2019 | [6cdb706](https://github.com/warpling/Macmoji/commit/c53fb2d24704069bbd41bd9ab0b9814f56cdb706) | Changed underscores to hyphens
 | April 25th, 2019 | [6dca474](https://github.com/warpling/Macmoji/commit/6dca4749072e954bc090c12ec8a09ac5e2e45bb7) | ♾️ Add a few missing emoji
 | April 9, 2019 | [22884a5](https://github.com/warpling/Macmoji/commit/22884a557326e3491b2d285ef49c4e1a44cd3a90) |  🇨🇳🇧🇷🇦🇺 Add country flags
