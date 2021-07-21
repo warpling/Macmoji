@@ -10406,5 +10406,47 @@
     <key>shortcut</key>
     <string>:transgender-sign:</string>
   </dict>
+  <dict>
+    <key>phrase</key>
+    <string>😮‍💨</string>
+    <key>shortcut</key>
+    <string>:face-exhaling:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>😵‍💫</string>
+    <key>shortcut</key>
+    <string>:face-with-spiral-eyes:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>😶‍🌫️</string>
+    <key>shortcut</key>
+    <string>:face-in-clouds:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>❤️‍🔥</string>
+    <key>shortcut</key>
+    <string>:heart-on-fire:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>❤️‍🩹</string>
+    <key>shortcut</key>
+    <string>:mending-heart:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🧔‍♀️</string>
+    <key>shortcut</key>
+    <string>:woman-beard:</string>
+  </dict>
+  <dict>
+    <key>phrase</key>
+    <string>🧔‍♂️</string>
+    <key>shortcut</key>
+    <string>:man-beard:</string>
+  </dict>
 </array>
 </plist>
