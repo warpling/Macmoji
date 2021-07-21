@@ -72,6 +72,7 @@ Looking to update to the [latest release](https://github.com/warpling/Macmoji/re
 
 |       Date       |       Commit       |       Changes       |
 | ---------------- | ------------------ | ------------------- |
+| May 18th, 2021 | [998d55e](https://github.com/warpling/Macmoji/pull/56/commits/998d55ed5314133dffb4b11a3768307c52b1c02c) | ❤️‍🔥😶‍🌫️😵‍💫😮‍💨 Add iOS 14.5 Emojis (Thanks [camlloyd](https://github.com/camlloyd)!)
 | May 18th, 2021 | [23f4301](https://github.com/warpling/Macmoji/commit/23f4301900f521b221dd9e633bad43d54469ce4b) | Changed plist to use camelCase, and updated README
 | May 18th, 2019 | [6cdb706](https://github.com/warpling/Macmoji/commit/c53fb2d24704069bbd41bd9ab0b9814f56cdb706) | Changed underscores to hyphens
 | April 25th, 2019 | [6dca474](https://github.com/warpling/Macmoji/commit/6dca4749072e954bc090c12ec8a09ac5e2e45bb7) | ♾️ Add a few missing emoji
